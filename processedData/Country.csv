@@ -1,0 +1,229 @@
+,Country,ISO,Continent
+6,Cabo Verde,CPV,Africa
+7,India,IND,Asia
+8,Guatemala,GTM,Americas
+11,Canada,CAN,Americas
+12,Comoros (the),COM,Africa
+13,Bangladesh,BGD,Asia
+16,Chile,CHL,Americas
+17,Colombia,COL,Americas
+18,Belgium,BEL,Europe
+20,Hong Kong,HKG,Asia
+21,China,CHN,Asia
+27,France,FRA,Europe
+28,Haiti,HTI,Americas
+29,Indonesia,IDN,Asia
+30,Burkina Faso,BFA,Africa
+34,Costa Rica,CRI,Americas
+35,Algeria,DZA,Africa
+36,Gambia (the),GMB,Africa
+37,Guinea-Bissau,GNB,Africa
+55,Anguilla,AIA,Americas
+63,Germany Fed Rep,DFR,Europe
+76,Ecuador,ECU,Americas
+84,Bahamas (the),BHS,Americas
+86,Cuba,CUB,Americas
+88,Egypt,EGY,Africa
+99,Bulgaria,BGR,Europe
+103,Guadeloupe,GLP,Americas
+104,Greece,GRC,Europe
+110,Dominica,DMA,Americas
+111,Dominican Republic (the),DOM,Americas
+117,Belize,BLZ,Americas
+119,Fiji,FJI,Oceania
+120,Honduras,HND,Americas
+142,Ghana,GHA,Africa
+143,Australia,AUS,Oceania
+154,Cook Islands (the),COK,Oceania
+164,Argentina,ARG,Americas
+173,Azores Islands,AZO,Europe
+181,Bermuda,BMU,Americas
+182,Brazil,BRA,Americas
+200,Antigua and Barbuda,ATG,Americas
+210,Switzerland,CHE,Europe
+214,Austria,AUT,Europe
+217,United Kingdom of Great Britain and Northern Ireland (the),GBR,Europe
+223,Cyprus,CYP,Asia
+230,Spain,ESP,Europe
+235,Afghanistan,AFG,Asia
+236,Netherlands Antilles,ANT,Americas
+254,Barbados,BRB,Americas
+325,Ethiopia,ETH,Africa
+332,Albania,ALB,Europe
+338,Guam,GUM,Oceania
+352,Grenada,GRD,Americas
+386,Bolivia (Plurinational State of),BOL,Americas
+389,Botswana,BWA,Africa
+411,American Samoa,ASM,Oceania
+457,Congo (the),COG,Africa
+506,Benin,BEN,Africa
+553,Côte d’Ivoire,CIV,Africa
+572,Hungary,HUN,Europe
+587,Cameroon,CMR,Africa
+596,Guyana,GUY,Americas
+630,Central African Republic,CAF,Africa
+672,Czechoslovakia,CSK,Europe
+728,Denmark,DNK,Europe
+785,Djibouti,DJI,Africa
+811,Burundi,BDI,Africa
+817,Bahrain,BHR,Asia
+846,United States of America (the),USA,Americas
+847,Jamaica,JAM,Americas
+849,Japan,JPN,Asia
+851,Uganda,UGA,Africa
+853,Myanmar,MMR,Asia
+854,Martinique,MTQ,Americas
+855,Soviet Union,SUN,Europe
+857,Niger (the),NER,Africa
+858,Turkey,TUR,Asia
+861,Italy,ITA,Europe
+862,Philippines (the),PHL,Asia
+866,Taiwan (Province of China),TWN,Asia
+871,Romania,ROU,Europe
+872,Iran (Islamic Republic of),IRN,Asia
+874,Morocco,MAR,Africa
+879,Mali,MLI,Africa
+880,Mauritania,MRT,Africa
+882,Senegal,SEN,Africa
+883,Chad,TCD,Africa
+892,Peru,PER,Americas
+897,Tokelau,TKL,Oceania
+905,Puerto Rico,PRI,Americas
+906,New Zealand,NZL,Oceania
+929,Pakistan,PAK,Asia
+933,Jordan,JOR,Asia
+936,Saint Kitts and Nevis,KNA,Americas
+937,Montserrat,MSR,Americas
+938,Poland,POL,Europe
+946,Mexico,MEX,Americas
+953,Nicaragua,NIC,Americas
+956,Solomon Islands,SLB,Oceania
+966,Trinidad and Tobago,TTO,Americas
+972,El Salvador,SLV,Americas
+979,Korea (the Republic of),KOR,Asia
+981,Norway,NOR,Europe
+988,Papua New Guinea,PNG,Oceania
+997,New Caledonia,NCL,Oceania
+1008,Sudan (the),SDN,Africa
+1025,Libya,LBY,Africa
+1043,Tonga,TON,Oceania
+1058,Réunion,REU,Africa
+1113,Netherlands (the),NLD,Europe
+1131,Iraq,IRQ,Asia
+1139,Nepal,NPL,Asia
+1150,Lebanon,LBN,Asia
+1167,Mozambique,MOZ,Africa
+1184,Sri Lanka,LKA,Asia
+1185,Mongolia,MNG,Asia
+1189,Canary Is,SPI,Europe
+1190,Tunisia,TUN,Africa
+1200,French Polynesia,PYF,Oceania
+1214,Niue,NIU,Oceania
+1230,Saint Lucia,LCA,Americas
+1232,Mauritius,MUS,Africa
+1256,Somalia,SOM,Africa
+1274,Thailand,THA,Asia
+1296,Paraguay,PRY,Americas
+1310,Kenya,KEN,Africa
+1318,Panama,PAN,Americas
+1322,Saudi Arabia,SAU,Asia
+1331,"Tanzania, United Republic of",TZA,Africa
+1352,Malaysia,MYS,Asia
+1376,Lao People's Democratic Republic (the),LAO,Asia
+1395,Togo,TGO,Africa
+1423,Malawi,MWI,Africa
+1431,Portugal,PRT,Europe
+1433,Syrian Arab Republic,SYR,Asia
+1438,Uruguay,URY,Americas
+1460,Lesotho,LSO,Africa
+1461,Madagascar,MDG,Africa
+1505,Nigeria,NGA,Africa
+1514,Suriname,SUR,Americas
+1527,Israel,ISR,Asia
+1595,Kiribati,KIR,Oceania
+1615,Tuvalu,TUV,Oceania
+1621,Iceland,ISL,Europe
+1668,Rwanda,RWA,Africa
+1700,Sierra Leone,SLE,Africa
+1735,Sweden,SWE,Europe
+1773,Oman,OMN,Asia
+1833,Maldives,MDV,Asia
+1853,Saint Vincent and the Grenadines,VCT,Americas
+1860,Vanuatu,VUT,Oceania
+1861,Yemen Arab Rep,YMN,Asia
+1874,Venezuela (Bolivarian Republic of),VEN,Americas
+1883,South Africa,ZAF,Africa
+1889,Viet Nam,VNM,Asia
+1912,Yugoslavia,YUG,Europe
+1919,Samoa,WSM,Oceania
+1922,Wallis and Futuna,WLF,Oceania
+1930,Congo (the Democratic Republic of the),COD,Africa
+1966,Yemen P Dem Rep,YMD,Asia
+1983,Zimbabwe,ZWE,Africa
+1999,Zambia,ZMB,Africa
+2085,Guinea,GIN,Africa
+2094,Angola,AGO,Africa
+2295,Germany Dem Rep,DDR,Europe
+2342,Bhutan,BTN,Asia
+2521,Micronesia (Federated States of),FSM,Oceania
+2612,Gabon,GAB,Africa
+2722,Liberia,LBR,Africa
+2827,Namibia,NAM,Africa
+2958,Ireland,IRL,Europe
+2973,Luxembourg,LUX,Europe
+3011,"Palestine, State of",PSE,Asia
+3256,Cambodia,KHM,Asia
+3300,Korea (the Democratic People's Republic of),PRK,Asia
+3451,Eswatini,SWZ,Africa
+3505,Sao Tome and Principe,STP,Africa
+3579,Turks and Caicos Islands (the),TCA,Americas
+3865,Germany,DEU,Europe
+4042,Belarus,BLR,Europe
+4211,Finland,FIN,Europe
+4340,Georgia,GEO,Asia
+4416,Marshall Islands (the),MHL,Oceania
+4467,Kyrgyzstan,KGZ,Asia
+4513,Lithuania,LTU,Europe
+4551,Russian Federation (the),RUS,Europe
+4557,Eritrea,ERI,Africa
+4569,Macedonia (the former Yugoslav Republic of),MKD,Europe
+4621,Kazakhstan,KAZ,Asia
+4629,Macao,MAC,Asia
+4749,Virgin Island (U.S.),VIR,Americas
+4901,Yemen,YEM,Asia
+4908,Uzbekistan,UZB,Asia
+4913,Serbia Montenegro,SCG,Europe
+4919,Tajikistan,TJK,Asia
+4925,Ukraine,UKR,Europe
+4986,Turkmenistan,TKM,Asia
+5088,Azerbaijan,AZE,Asia
+5234,Armenia,ARM,Asia
+5335,Brunei Darussalam,BRN,Asia
+5358,Moldova (the Republic of),MDA,Europe
+5601,Czech Republic (the),CZE,Europe
+5624,French Guiana,GUF,Americas
+5629,Croatia,HRV,Europe
+5812,Kuwait,KWT,Asia
+6152,Virgin Island (British),VGB,Americas
+6205,Slovakia,SVK,Europe
+6206,Seychelles,SYC,Africa
+6312,Slovenia,SVN,Europe
+6424,Bosnia and Herzegovina,BIH,Europe
+6762,Latvia,LVA,Europe
+7092,Singapore,SGP,Asia
+7660,Cayman Islands (the),CYM,Americas
+8119,"Saint Helena, Ascension and Tristan da Cunha",SHN,Africa
+8210,Timor-Leste,TLS,Asia
+8432,Northern Mariana Islands (the),MNP,Oceania
+8803,Equatorial Guinea,GNQ,Africa
+8862,Estonia,EST,Europe
+11046,Montenegro,MNE,Europe
+11048,Serbia,SRB,Europe
+11062,South Sudan,SSD,Africa
+12564,Palau,PLW,Oceania
+13880,United Arab Emirates (the),ARE,Asia
+14514,Qatar,QAT,Asia
+14740,Saint Barthélemy,BLM,Americas
+14789,Saint Martin (French Part),MAF,Americas
+14790,Sint Maarten (Dutch part),SXM,Americas
+15488,Isle of Man,IMN,Europe

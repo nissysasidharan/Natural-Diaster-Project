@@ -1,0 +1,2147 @@
+,DisasterId,DisasterSubgroup,DisasterType,Event Name,Origin
+0,7,Climatological,Drought,,
+1,9,Geophysical,Earthquake,,
+2,10,Geophysical,Volcanic activity,Santa Maria,
+3,12,Geophysical,Mass movement (dry),,
+4,13,Geophysical,Volcanic activity,Mount Karthala,
+5,14,Meteorological,Storm,,
+6,19,Hydrological,Flood,,
+7,32,Hydrological,Landslide,,
+8,40,Climatological,Wildfire,,
+9,59,Geophysical,Volcanic activity,Mt. Kelud,
+10,101,Geophysical,Earthquake,,Earthquake
+11,104,Meteorological,Storm,Felipe,
+12,106,Geophysical,Earthquake,,Volacno and landslide
+13,112,Meteorological,Storm,San Zenon,
+14,115,Geophysical,Volcanic activity,Mt. Merapi,
+15,132,Meteorological,Storm,Jeremie & Jacmel,
+16,136,Meteorological,Extreme temperature ,,
+17,184,Geophysical,Volcanic activity,,
+18,196,Geophysical,Volcanic activity,Purace,
+19,201,Meteorological,Storm,Dog,
+20,219,Meteorological,Fog,,
+21,237,Meteorological,Storm,Alice,
+22,240,Meteorological,Storm,Hazel,
+23,254,Meteorological,Storm,Janet,
+24,271,Meteorological,Storm,Betsy,
+25,282,Meteorological,Storm,Gloria,
+26,301,Meteorological,Storm,Ellen,
+27,302,Meteorological,Storm,Iris,
+28,311,Meteorological,Storm,Donna,
+29,318,Meteorological,Storm,Mary,
+30,319,Climatological,Drought,,Late arrival of rain
+31,324,Meteorological,Storm,Hattie,
+32,329,Meteorological,Storm,Olga,
+33,339,Meteorological,Storm,Karen,
+34,340,Meteorological,Storm,Wanda,
+35,347,Meteorological,Storm,Flora,
+36,350,Meteorological,Storm,Edith,
+37,357,Geophysical,Volcanic activity,Mt. Agung,
+38,368,Meteorological,Storm,Ruby,
+39,370,Meteorological,Storm,Cleo,
+40,375,Meteorological,Storm,Dot,
+41,405,Meteorological,Storm,Agnes,
+42,413,Meteorological,Storm,Inez,
+43,442,Geophysical,Volcanic activity,Mt. Awu,
+44,467,Meteorological,Storm,Kate,
+45,488,Geophysical,Volcanic activity,Mount Arenal,
+46,489,Meteorological,Storm,Gladys,
+47,497,Meteorological,Storm,Shirley,
+48,528,Meteorological,Storm,Francelia,
+49,530,Meteorological,Storm,Viola,
+50,540,Meteorological,Storm,Ada,
+51,553,Meteorological,Storm,Fran,
+52,580,Meteorological,Storm,Althea,
+53,598,Meteorological,Storm,Rose,
+54,611,Meteorological,Storm,Bebe,
+55,642,Meteorological,Storm,Juliette,
+56,643,Meteorological,Storm,Lottie,
+57,653,Meteorological,Storm,Tracy,
+58,662,Meteorological,Storm,Carmen & Fifi,
+59,676,Meteorological,Storm,Carmen,
+60,677,Meteorological,Storm,Elaine,
+61,678,Meteorological,Storm,Fifi,
+62,683,Hydrological,Flood,,Typhoon 
+63,694,Geophysical,Volcanic activity,Mt Arenal,
+64,695,Geophysical,Volcanic activity,El Sangay,
+65,698,Meteorological,Storm,Val,
+66,700,Meteorological,Storm,Elsie,
+67,728,Meteorological,Storm,Capella,
+68,732,Geophysical,Volcanic activity,Cotopaxi,
+69,737,Geophysical,Volcanic activity,Mount Soufriere,
+70,740,Meteorological,Storm,Pamela,
+71,742,Meteorological,Storm,Violet,
+72,788,Geophysical,Volcanic activity,Nyiragongo,
+73,790,Hydrological,Flood,,Heavy rains
+74,794,Meteorological,Storm,Freda,
+75,811,Meteorological,Storm,Alby,
+76,819,Meteorological,Storm,Greta,
+77,829,Meteorological,Storm,Bob,
+78,855,Geophysical,Volcanic activity,Mount Pelee,
+79,865,Geophysical,Volcanic activity,Mt. Vesuve,
+80,876,Hydrological,Flood,,Meteorological
+81,886,Geophysical,Volcanic activity,Mount Taal,
+82,897,Geophysical,Volcanic activity,Mount Sakurajima,
+83,928,Geophysical,Volcanic activity,Mount Tokachi,
+84,940,Meteorological,Storm,San Felipe / Okeechobee ,
+85,960,Meteorological,Storm,San Ciprian,
+86,989,Geophysical,Volcanic activity,Tavurvur,
+87,1020,Geophysical,Volcanic activity,Paricutin,
+88,1034,Geophysical,Volcanic activity,Unsendake,
+89,1035,Meteorological,Storm,Makurazaki,
+90,1036,Meteorological,Storm,Akune,
+91,1044,Geophysical,Volcanic activity,Niuafo'ou,
+92,1047,Meteorological,Storm,Catherine,
+93,1056,Meteorological,Storm,Lone,
+94,1063,Meteorological,Storm,Della,
+95,1067,Meteorological,Storm,Rena,
+96,1073,Meteorological,Storm,Jane,
+97,1085,Meteorological,Storm,Charlie,
+98,1086,Meteorological,Storm,Ruth,
+99,1091,Geophysical,Volcanic activity,Hibok-Hibok,
+100,1094,Meteorological,Storm,Amy,
+101,1095,Geophysical,Volcanic activity,Lamington,
+102,1102,Geophysical,Volcanic activity,Myozin-Syo,
+103,1106,Meteorological,Storm,Emma,
+104,1107,Meteorological,Storm,"Trixy, Wilma",
+105,1114,Hydrological,Flood,,Storm and wave surge
+106,1125,Geophysical,Volcanic activity,Ruapehu,
+107,1144,Meteorological,Storm,Carol,
+108,1152,Meteorological,Storm,Hilda,
+109,1159,Meteorological,Storm,Diane,
+110,1173,Geophysical,Volcanic activity,Mount Bezymianny,
+111,1189,Geophysical,Volcanic activity,Manam,
+112,1194,Meteorological,Storm,Audrey,
+113,1197,Meteorological,Storm,Ida,
+114,1205,Meteorological,Storm,Vera,
+115,1209,Meteorological,Storm,Sarah,
+116,1212,Meteorological,Storm,"Beulah, Manzanillo",
+117,1214,Meteorological,Storm,Beatrice,
+118,1219,Meteorological,Storm,"Typhoon ""Ellen""",
+119,1231,Meteorological,Storm,Abby,
+120,1235,Meteorological,Storm,Corine,
+121,1239,Meteorological,Storm,Lucille,
+122,1240,Meteorological,Storm,Olive,
+123,1241,Meteorological,Storm,Kit,
+124,1242,Meteorological,Storm,Lola,
+125,1256,Meteorological,Storm,Tara,
+126,1261,Meteorological,Storm,Carla,
+127,1275,Meteorological,Storm,Harriet,
+128,1321,Meteorological,Storm,Winnie (Dading),
+129,1322,Meteorological,Storm,Louise,
+130,1335,Meteorological,Storm,Dora,
+131,1340,Meteorological,Storm,Dinah,
+132,1341,Meteorological,Storm,Jean,
+133,1356,Geophysical,Volcanic activity,Mt. Taal,
+134,1375,Meteorological,Storm,Alice & Cora,
+135,1388,Meteorological,Storm,Aning,
+136,1393,Meteorological,Storm,Angela,
+137,1401,Meteorological,Storm,Judy,
+138,1408,Meteorological,Storm,Billie,
+139,1409,Meteorological,Storm,Diana,
+140,1413,Meteorological,Storm,Beulah,
+141,1416,Meteorological,Storm,"Katrina, Beulah, Fern",
+142,1423,Meteorological,Storm,"Carmen, Monica",
+143,1431,Meteorological,Storm,Emma (Welming),
+144,1433,Meteorological,Storm,Annie,
+145,1440,Meteorological,Storm,Hurricane Beulah,
+146,1462,Meteorological,Storm,Georgette,
+147,1467,Meteorological,Storm,Brenda,
+148,1473,Meteorological,Storm,Giselle,
+149,1476,Geophysical,Volcanic activity,Mount Mayon,
+150,1478,Meteorological,Storm,"Mamie, Nina, Ora",
+151,1480,Meteorological,Storm,Becky,
+152,1498,Meteorological,Storm,Dany,
+153,1504,Meteorological,Storm,Colleen,
+154,1510,Geophysical,Volcanic activity,Mount Kanlaon,
+155,1518,Meteorological,Storm,Elsie & Flossie,
+156,1520,Meteorological,Storm,Camille,
+157,1537,Meteorological,Storm,Dorothy,
+158,1547,Meteorological,Storm,Fran & Georgia,
+159,1548,Meteorological,Storm,"Joan, Kate",
+160,1549,Meteorological,Storm,Patsy,
+161,1550,Meteorological,Storm,Oyang,
+162,1551,Meteorological,Storm,Katy (Pitang),
+163,1552,Meteorological,Storm,Sening,
+164,1553,Meteorological,Storm,Titang,
+165,1554,Meteorological,Storm,Yoling,
+166,1559,Meteorological,Storm,Celia,
+167,1573,Geophysical,Volcanic activity,Cerro Negro,
+168,1578,Meteorological,Storm,Dinah (Herming),
+169,1583,Geophysical,Volcanic activity,Tinakula,
+170,1594,Meteorological,Storm,Helen,
+171,1599,Meteorological,Storm,Eugenie,
+172,1601,Meteorological,Storm,Fabienne,
+173,1610,Meteorological,Storm,Kit (Asiang),
+174,1611,Meteorological,Storm,Ora,
+175,1612,Meteorological,Storm,Therese (Undang),
+176,1614,Meteorological,Storm,Hannah,
+177,1622,Geophysical,Volcanic activity,Eldafjell,
+178,1626,Meteorological,Storm,Gilda,
+179,1636,Meteorological,Storm,Nora (Luming),
+180,1660,Meteorological,Storm,Dinah (Bising),
+181,1661,Meteorological,Storm,Ivy (Iliang),
+182,1662,Meteorological,Storm,Bess (Susang),
+183,1663,Meteorological,Storm,Carmen (Tering),
+184,1664,Meteorological,Storm,Elaine (Wening),
+185,1665,Meteorological,Storm,Gloria (Aning),
+186,1666,Meteorological,Storm,Irma (Bidang),
+187,1672,Meteorological,Storm,Alma,
+188,1683,Meteorological,Storm,Phyllis,
+189,1686,Meteorological,Storm,Deborah & Ines,
+190,1687,Meteorological,Storm,Olivia,
+191,1691,Meteorological,Storm,Gervaise,
+192,1692,Meteorological,Storm,Alison,
+193,1695,Meteorological,Storm,Lola (Auring),
+194,1704,Meteorological,Storm,Eloise,
+195,1715,Meteorological,Storm,Liza,
+196,1720,Meteorological,Storm,David,
+197,1730,Meteorological,Storm,Olga (Didang),
+198,1731,Meteorological,Storm,Ruby (Huaning),
+199,1732,Meteorological,Storm,Nora (Aring),
+200,1752,Geophysical,Volcanic activity,Mount Usu,
+201,1754,Meteorological,Storm,Babe,
+202,1767,Meteorological,Storm,Emilie,
+203,1768,Meteorological,Storm,Anita,
+204,1781,Meteorological,Storm,Dinah (Openg),
+205,1782,Meteorological,Storm,Kim (Unding),
+206,1783,Meteorological,Storm,(Elang),
+207,1784,Meteorological,Storm,(Ibiang),
+208,1793,Geophysical,Volcanic activity,La Fournaise,
+209,1804,Meteorological,Storm,Ernie,
+210,1808,Meteorological,Storm,Thelma & Vera,
+211,1826,Meteorological,Storm,Irma,
+212,1842,Geophysical,Volcanic activity,Bulusan,
+213,1843,Meteorological,Storm,Caroline,
+214,1844,Meteorological,Storm,Nina,
+215,1845,Meteorological,Storm,Rita (Kading),
+216,1905,Meteorological,Storm,Amanda,
+217,1917,Meteorological,Storm,Iris ,
+218,1964,Meteorological,Storm,Carlotta,
+219,1965,Meteorological,Storm,Wendy,
+220,1966,Meteorological,Storm,Gail,
+221,1992,Meteorological,Storm,June,
+222,1996,Geophysical,Volcanic activity,Mt. Nyiragongo,
+223,2010,Meteorological,Storm, Elaine,
+224,2016,Meteorological,Storm,Frederic,
+225,2035,Meteorological,Storm,David & Federick,
+226,2036,Meteorological,Storm,David & Frederick,
+227,2042,Meteorological,Storm,Meli,
+228,2043,Geophysical,Earthquake,,Landslide
+229,2047,Meteorological,Storm,Hope,
+230,2048,Meteorological,Storm,Mac,
+231,2066,Meteorological,Storm,Allen,
+232,2069,Meteorological,Storm,Joe,
+233,2084,Meteorological,Storm,Wally,
+234,2115,Hydrological,Flood,,Heavy rain
+235,2118,Meteorological,Storm,Daman,
+236,2132,Meteorological,Storm,Arthur,
+237,2144,Meteorological,Storm,Dominic,
+238,2165,Meteorological,Storm,Beryl,
+239,2167,Meteorological,Storm,Alberto,
+240,2228,Meteorological,Storm,Elinah,
+241,2242,Meteorological,Storm,Oscar,
+242,2257,Geophysical,Volcanic activity,Santiaquito,
+243,2288,Meteorological,Storm,Ike,
+244,2292,Geophysical,Volcanic activity,Volcanic lake Monoum,
+245,2299,Meteorological,Storm,Klaus,
+246,2301,Meteorological,Storm,Hortense,
+247,2314,Geophysical,Volcanic activity,Zaltenango,
+248,2316,Geophysical,Volcanic activity,Nevado Del Ruiz,
+249,2365,Meteorological,Storm,"Hurricane ""Kate""",
+250,2380,Meteorological,Storm,"Eric, Nigel, Odette",
+251,2381,Meteorological,Storm,Gavin,
+252,2391,Meteorological,Storm,Tess,
+253,2396,Meteorological,Storm,Winifred,
+254,2425,Meteorological,Storm,Peggy,
+255,2434,Geophysical,Volcanic activity,Lake Nyos,
+256,2444,Meteorological,Storm,Rajah,
+257,2453,Meteorological,Storm,Wayne,
+258,2472,Meteorological,Storm,Emily,
+259,2495,Meteorological,Storm,Gerald,
+260,2502,Meteorological,Storm,Sally,
+261,2506,Meteorological,Storm,Jan,
+262,2532,Geophysical,Volcanic activity,Pacayo,
+263,2536,Meteorological,Storm,Lynn,
+264,2555,Meteorological,Storm,04B,
+265,2572,Geophysical,Volcanic activity,Lonquimay,
+266,2583,Meteorological,Storm,Bill (n°7),
+267,2594,Meteorological,Storm,Joan,
+268,2599,Meteorological,Storm,Gilbert,
+269,2612,Hydrological,Flood,,Brief torrential rains
+270,2634,Meteorological,Storm,Angele,
+271,2645,Meteorological,Storm,(Atang),
+272,2646,Meteorological,Storm,(Heling),
+273,2647,Meteorological,Storm,Elaine (Miding),
+274,2648,Meteorological,Storm,(Weling),
+275,2649,Meteorological,Storm,(Yaning),
+276,2650,Meteorological,Storm,(Garding),
+277,2656,Geophysical,Earthquake,,Earthquake and landslide
+278,2664,Geophysical,Volcanic activity,Mt. Sinila,
+279,2685,Geophysical,Volcanic activity,Mt. Etna,
+280,2688,Meteorological,Storm,Tip,
+281,2700,Meteorological,Storm,Celine,
+282,2701,Meteorological,Storm,Claudette,
+283,2710,Meteorological,Storm,Cecil,
+284,2711,Meteorological,Storm,Irving,
+285,2712,Meteorological,Storm,(Mameng),
+286,2713,Meteorological,Storm,(Pepang),
+287,2714,Meteorological,Storm,(Yayang),
+288,2726,Geophysical,Volcanic activity,Gamalama,
+289,2752,Meteorological,Storm,Orchid,
+290,2780,Meteorological,Storm,Kim,
+291,2781,Meteorological,Storm,Betty (Aring),
+292,2782,Meteorological,Storm,(Biring),
+293,2783,Meteorological,Storm,(Ditang),
+294,2784,Meteorological,Storm,(Nitang/Osang),
+295,2787,Meteorological,Storm,Hyacinthe,
+296,2793,Geophysical,Volcanic activity,Mt. Semeru,
+297,2813,Meteorological,Storm,Thad,
+298,2823,Meteorological,Storm,St. Lidia,
+299,2829,Meteorological,Storm,Cliff,
+300,2831,Meteorological,Storm,Gyan,
+301,2847,Meteorological,Storm,Clara,
+302,2848,Meteorological,Storm,Irma (Anding),
+303,2849,Meteorological,Storm,Lee (Dinang),
+304,2850,Meteorological,Storm,(Daling),
+305,2851,Meteorological,Storm,(Rubing),
+306,2852,Meteorological,Storm,(Yeyeng),
+307,2861,Climatological,Drought,,Famine
+308,2864,Meteorological,Storm,Alleta,
+309,2865,Geophysical,Volcanic activity,Mt. Galunggung,
+310,2866,Geophysical,Volcanic activity,Mt. Soputan,
+311,2884,Meteorological,Storm,Bess,
+312,2885,Meteorological,Storm,Ellis,
+313,2894,Hydrological,Landslide,Cliff,
+314,2895,Meteorological,Storm,"Benedic, Electre, Frida, Justine",
+315,2897,Geophysical,Volcanic activity,El Chichon,
+316,2899,Meteorological,Storm,Paul,
+317,2904,Meteorological,Storm,Damia,
+318,2905,Meteorological,Storm,Frida,
+319,2917,Meteorological,Storm,Mamie,
+320,2918,Meteorological,Storm,Nelson (Bising),
+321,2919,Meteorological,Storm,Faye,
+322,2920,Meteorological,Storm,(Ruping),
+323,2921,Meteorological,Storm,Nancy (Weling),
+324,2922,Meteorological,Storm,(Akang),
+325,2923,Meteorological,Storm,(Emang),
+326,2924,Meteorological,Storm,(Norming),
+327,2925,Meteorological,Storm,(Aning),
+328,2941,Geophysical,Volcanic activity,Mt. Gamkunoro,
+329,2942,Geophysical,Volcanic activity,Mt. Colo,
+330,2943,Geophysical,Volcanic activity,Mt. Gamalama,
+331,2967,Geophysical,Volcanic activity,Mount Oyama,
+332,2969,Meteorological,Storm,Forest,
+333,2979,Meteorological,Storm,Tico,
+334,2982,Meteorological,Storm,Andy,
+335,2996,Meteorological,Storm,Vera (Bebeng),
+336,2997,Meteorological,Storm,Ellen (Herming),
+337,2998,Meteorological,Storm,Orchid (Warling),
+338,3002,Geophysical,Volcanic activity,Rabaul,
+339,3010,Climatological,Drought,,El Nino
+340,3013,Meteorological,Storm,Orama,
+341,3014,Meteorological,Storm,Veena,
+342,3027,Geophysical,Volcanic activity,Mt. Karangetan,
+343,3047,Geophysical,Volcanic activity,Mount Krafla,
+344,3061,Meteorological,Storm,Kamisy,
+345,3065,Meteorological,Storm,Domoina,
+346,3075,Geophysical,Volcanic activity,Mayon,
+347,3076,Meteorological,Storm,June (Maring),
+348,3077,Meteorological,Storm,Agnes (Undang),
+349,3078,Meteorological,Storm,Ike (Nitang) and Maring,
+350,3079,Meteorological,Storm,Warren (Reming),
+351,3085,Geophysical,Volcanic activity,Mt. Sangeang,
+352,3101,Meteorological,Storm,Orilla,
+353,3104,Meteorological,Storm,Typhoon Irma,
+354,3105,Meteorological,Storm,Pat,
+355,3129,Meteorological,Storm,Dot (Saling),
+356,3130,Meteorological,Storm,Hal (Kuring) and Irma (Daling),
+357,3131,Meteorological,Storm,Tess (Miling),
+358,3171,Geophysical,Volcanic activity,Mount Mihara,
+359,3177,Meteorological,Storm,Danielle,
+360,3179,Meteorological,Storm,Honorinina,
+361,3202,Meteorological,Storm,Peggy (Gading),
+362,3203,Meteorological,Storm,Wayne (Miding),
+363,3204,Meteorological,Storm,Dom (Oyang),
+364,3205,Meteorological,Storm,Ellen (Daling),
+365,3206,Meteorological,Storm,Georgia (Ruping),
+366,3207,Meteorological,Storm,Narge (Aning),
+367,3222,Geophysical,Volcanic activity,Mt. Mandosawu,
+368,3256,Meteorological,Storm,Kelly,
+369,3260,Meteorological,Storm,Thelma,
+370,3261,Meteorological,Storm,Vernon,
+371,3294,Meteorological,Storm,Betty (Herming),
+372,3295,Meteorological,Storm,Lynn (Pedang),
+373,3296,Meteorological,Storm,Nina (Sisang),
+374,3297,Meteorological,Storm,Cart (Ising),
+375,3298,Meteorological,Storm,Phillis (Trining),
+376,3321,Geophysical,Volcanic activity,Banda Api,
+377,3322,Geophysical,Volcanic activity,Mt. Kiebessy,
+378,3352,Meteorological,Storm,Debby,
+379,3359,Meteorological,Storm,Filao,
+380,3374,Meteorological,Storm,Bola,
+381,3389,Meteorological,Storm,Susan (Biring),
+382,3390,Meteorological,Storm,Warren (Huaning),
+383,3391,Meteorological,Storm,Ruby (Unsang),
+384,3392,Meteorological,Storm,Skip (Yoning),
+385,3393,Meteorological,Storm,Tess (Welpring),
+386,3416,Meteorological,Storm,Kerry,
+387,3425,Meteorological,Storm,Gordon,
+388,3440,Geophysical,Volcanic activity,Mount St.Helen,
+389,3448,Meteorological,Storm,Joe (n°4),
+390,3449,Meteorological,Storm,Ruth (N°6),
+391,3476,Meteorological,Storm,Bernie,
+392,3481,Meteorological,Storm,Isaac,
+393,3490,Meteorological,Storm,Iwa,
+394,3499,Meteorological,Storm,Nancy (N°7),
+395,3517,Meteorological,Storm,Alicia,
+396,3527,Meteorological,Storm,"Herbert (N°7), Kim (N°9), Lex (N°10)",
+397,3528,Meteorological,Storm,Georgia (N°6),
+398,3566,Meteorological,Storm,Agnes (n°9),
+399,3569,Meteorological,Storm,"Domoina, Imboa",
+400,3572,Meteorological,Storm,Hina,
+401,3593,Meteorological,Storm,Elena,
+402,3595,Meteorological,Storm,Juan,
+403,3604,Meteorological,Storm,Eric & Nigel,
+404,3610,Meteorological,Storm,Namu,
+405,3639,Meteorological,Storm,Wayne (N°5),
+406,3640,Meteorological,Storm,Raja,
+407,3675,Meteorological,Storm,Maury,
+408,3678,Meteorological,Storm,Uma,
+409,3707,Meteorological,Storm,Keith,
+410,3735,Meteorological,Storm,Anne,
+411,3741,Meteorological,Storm,Brian,
+412,3744,Meteorological,Storm,Fili & Gina,
+413,3749,Meteorological,Storm,Hugo,
+414,3750,Meteorological,Storm,Gina,
+415,3753,Meteorological,Storm,Aivu,
+416,3754,Meteorological,Storm,Orson,
+417,3764,Meteorological,Storm,Dean,
+418,3790,Meteorological,Storm,"Kalafandji, Firinga",
+419,3800,Meteorological,Storm,Gustav,
+420,3801,Hydrological,Flood,,Extra-tropical cyclone
+421,3803,Meteorological,Storm,Joy,
+422,3806,Meteorological,Storm,Ottilie and Polly,
+423,3807,Meteorological,Storm,Vivian,
+424,3808,Meteorological,Storm,Wiebke,
+425,3809,Meteorological,Storm,Daria,
+426,3810,Meteorological,Storm,Herta,
+427,3811,Meteorological,Storm,Judith,
+428,3820,Meteorological,Storm,Ofa,
+429,3828,Hydrological,Flood,,Brief torrential rain
+430,3847,Meteorological,Storm,N°5,
+431,3848,Meteorological,Storm,N°6,
+432,3849,Meteorological,Storm,Yancy,
+433,3850,Meteorological,Storm,Tasha,
+434,3851,Meteorological,Storm,Abe,
+435,3856,Meteorological,Storm,Peni,
+436,3883,Hydrological,Flood,,Heavy rains and thunderstorms
+437,3884,Meteorological,Storm,Gorky (02B),
+438,3890,Geophysical,Volcanic activity,Mt Hudson,
+439,3898,Hydrological,Flood,,Monsoonal rain
+440,3909,Geophysical,Volcanic activity,Hudson,
+441,3917,Meteorological,Storm,Fred,
+442,3918,Meteorological,Storm,Zeke,
+443,3929,Hydrological,Landslide,,Heavy rains
+444,3933,Geophysical,Volcanic activity,Kartala,
+445,3936,Geophysical,Volcanic activity,Pacaya,
+446,3938,Meteorological,Storm,Undine,
+447,3954,Meteorological,Storm,Polly,
+448,3971,Meteorological,Storm,Andrew,
+449,3992,Meteorological,Storm,Ted,
+450,4032,Hydrological,Flood,,Monssonal rain
+451,4046,Geophysical,Volcanic activity,Lascar,
+452,4060,Meteorological,Storm,Koryn,
+453,4064,Meteorological,Storm,Ira,
+454,4065,Meteorological,Storm,Levis,
+455,4069,Geophysical,Volcanic activity,Galeras,
+456,4087,Hydrological,Landslide,,"Heavy rains, tremor"
+457,4094,Meteorological,Storm,Lore,
+458,4102,Hydrological,Flood,,Hevay rain
+459,4103,Meteorological,Storm,9403,
+460,4113,Hydrological,Flood,,Monsoon rain
+461,4159,Meteorological,Storm,Alibera,
+462,4167,Meteorological,Storm,Firinga,
+463,4180,Meteorological,Storm,Gordon (Goring),
+464,4181,Meteorological,Storm,Dan (Saling),
+465,4182,Meteorological,Storm,Elsie (Tasing),
+466,4183,Meteorological,Storm,Angela (Rubing),
+467,4184,Meteorological,Storm,Sarah (Openg),
+468,4185,Meteorological,Storm,Hunt (Unsing),
+469,4186,Meteorological,Storm,Breda (Bining),
+470,4197,Hydrological,Flood,,Tropical cyclone
+471,4216,Meteorological,Storm,Sina,
+472,4223,Meteorological,Storm,Nana,
+473,4253,Meteorological,Storm,02B,
+474,4269,Climatological,Wildfire,,Drought period
+475,4275,Meteorological,Storm,Flo,
+476,4318,Geophysical,Volcanic activity,Sabancayo,
+477,4325,Meteorological,Storm,Ofelia (Biring) & Percy,
+478,4326,Meteorological,Storm,Mike (Ruping),
+479,4336,Geophysical,Volcanic activity,Mount Pinatubo,
+480,4337,Meteorological,Storm,Thelma (Uring),
+481,4340,Climatological,Wildfire,,Prolonged drought
+482,4356,Meteorological,Storm,4B,
+483,4371,Geophysical,Volcanic activity,Mt. Lokon,
+484,4383,Hydrological,Flood,,Monsoon rains
+485,4398,Geophysical,Volcanic activity,Unzen,
+486,4400,Meteorological,Storm,Caitlin,
+487,4401,Meteorological,Storm,Kinna,
+488,4402,Meteorological,Storm,Luke,
+489,4403,Meteorological,Storm,Mireille (n°19),
+490,4412,Meteorological,Storm,Cynthia,
+491,4417,Meteorological,Storm,Zelda,
+492,4423,Meteorological,Storm,Bella,
+493,4445,Geophysical,Volcanic activity,Poon Bato,
+494,4446,Geophysical,Volcanic activity,Taal,
+495,4449,Meteorological,Storm,Brendan,
+496,4450,Meteorological,Storm,Ruth (Trining),
+497,4451,Meteorological,Storm,Zeke (Etang),
+498,4458,Meteorological,Storm,Gary,
+499,4469,Hydrological,Flood,,"Volcanic activity, tropical rainstorms and ash from the eruptions"
+500,4473,Meteorological,Storm,Eli (Konsing),
+501,4475,Meteorological,Storm,Joni,
+502,4476,Meteorological,Storm,,Brief torrential rains
+503,4482,Meteorological,Storm,Omar,
+504,4483,Meteorological,Storm,Gari (Ditang),
+505,4490,Hydrological,Flood,,monsoonal rain
+506,4501,Geophysical,Volcanic activity,Unzen ,
+507,4510,Meteorological,Storm,Zeke & Fred,
+508,4515,Meteorological,Storm,Lester,
+509,4542,Meteorological,Storm,Omar (Lusing),
+510,4544,Meteorological,Storm,Gloring,
+511,4556,Geophysical,Earthquake,Tsunami,
+512,4565,Hydrological,Flood,,Heavy rain and Snowmelt
+513,4574,Meteorological,Storm,Kina,
+514,4587,Meteorological,Storm,Lewis,
+515,4592,Geophysical,Volcanic activity,Damar,
+516,4593,Geophysical,Volcanic activity,Karangetang,
+517,4619,Meteorological,Storm,Robyn,
+518,4622,Hydrological,Flood,,Snowmelt and Heavy rains
+519,4625,Meteorological,Storm,Lewis & Winona,
+520,4637,Meteorological,Storm,Calvin,
+521,4638,Meteorological,Storm,"Arlene, Beatriz",
+522,4639,Meteorological,Storm,Irwin,
+523,4640,Meteorological,Storm,Lidia,
+524,4643,Meteorological,Storm,Cindy,
+525,4646,Meteorological,Storm,Bret,
+526,4661,Meteorological,Storm,Koryn (Goring),
+527,4662,Meteorological,Storm,Flo (Kadiang),
+528,4663,Meteorological,Storm,Lola (Monang) and Manny (Naning),
+529,4664,Meteorological,Storm,Kyle,
+530,4665,Meteorological,Storm,Nell (Puring),
+531,4668,Meteorological,Storm,Adel,
+532,4671,Meteorological,Storm,Colina,
+533,4681,Meteorological,Storm,Tim (Iliang),
+534,4694,Meteorological,Storm,"Daisy, Geralda",
+535,4695,Meteorological,Storm,Nadya,
+536,4696,Meteorological,Storm,Litanne,
+537,4698,Meteorological,Storm,"Hollanda, Ivy",
+538,4704,Meteorological,Storm,Owen (Bising),
+539,4705,Meteorological,Storm,Yunya (Norming),
+540,4706,Meteorological,Storm,Sharon (Gading),
+541,4707,Meteorological,Storm,Caitlin (Pasing),
+542,4708,Meteorological,Storm,Akang,
+543,4726,Meteorological,Storm,Gay,
+544,4733,Meteorological,Storm,Allison,
+545,4734,Meteorological,Storm,Chantal,
+546,4735,Meteorological,Storm, Jerry,
+547,4752,Meteorological,Storm,"Brian, Angela, Dan",
+548,4774,Hydrological,Flood,,"Rain, snowmelt"
+549,4777,Hydrological,Landslide,,Earthquake
+550,4886,Meteorological,Storm,Grace,
+551,4901,Meteorological,Storm,Val & Wasa,
+552,4907,Meteorological,Storm,Iniki,
+553,4919,Meteorological,Storm,Forrest,
+554,4952,Meteorological,Storm,Axel,
+555,4964,Meteorological,Storm,Chuck,
+556,4984,Meteorological,Storm,Winona,
+557,5010,Hydrological,Flood,,Snowmelt
+558,5014,Meteorological,Storm,Wylie,
+559,5029,Meteorological,Storm,Prema,
+560,5038,Meteorological,Storm,Fred (9416),
+561,5053,Meteorological,Storm,Hurricane,
+562,5082,Meteorological,Storm,Russ,
+563,5083,Meteorological,Storm,Tim,
+564,5100,Meteorological,Storm,Luis,
+565,5107,Meteorological,Storm,Bobby,
+566,5114,Meteorological,Storm,"Thalia, Urania, Valeska, Wilma",
+567,5125,Meteorological,Storm,Erin,
+568,5134,Meteorological,Storm,Marylin,
+569,5150,Hydrological,Flood,,Typhoon Gali
+570,5154,Meteorological,Storm,Kent,
+571,5162,Meteorological,Storm,Willie,
+572,5163,Meteorological,Storm,Kirk,
+573,5203,Hydrological,Flood,,Mosoonal rain
+574,5209,Meteorological,Storm,Herb,
+575,5223,Meteorological,Storm,Victor,
+576,5226,Meteorological,Storm,Winnie,
+577,5227,Meteorological,Storm,Zita,
+578,5229,Hydrological,Flood,,Heavy rain and brief torrential rain
+579,5251,Meteorological,Storm,One Bravo (01B),
+580,5252,Meteorological,Storm,2 B,
+581,5304,Meteorological,Storm,Georges,
+582,5319,Meteorological,Storm,01B,
+583,5320,Meteorological,Storm,07B,
+584,5325,Meteorological,Storm,Mitch,
+585,5346,Meteorological,Storm,Babs (Loleng),
+586,5354,Meteorological,Storm,Axel (Garding),
+587,5364,Meteorological,Storm,Teresa (Katring),
+588,5392,Geophysical,Volcanic activity,Mt. Barujari,
+589,5424,Geophysical,Volcanic activity,Colima,
+590,5425,Geophysical,Volcanic activity,Popocatepelt,
+591,5439,Hydrological,Landslide,,Monsoonal rain
+592,5440,Meteorological,Storm,Luke (Weling),
+593,5442,Meteorological,Storm,Vanessa,
+594,5446,Meteorological,Storm,Sybil (Mameng),
+595,5456,Meteorological,Storm,"Thaila, Urania, Valeska, Wilma",
+596,5457,Meteorological,Storm,"Thaila, Urania, Valeska, Wilma","Heavy rains, melting snow"
+597,5459,Meteorological,Storm,Janis,
+598,5461,Meteorological,Storm,"Thala, Urania, Valeska, Wilma",
+599,5462,Meteorological,Storm,Zack (Pepang),
+600,5463,Meteorological,Storm,Karing,
+601,5470,Geophysical,Volcanic activity,Fogo,
+602,5474,Meteorological,Storm,Opal,
+603,5478,Meteorological,Storm,Marilyn,
+604,5508,Hydrological,Flood,,Continous rainfall
+605,5511,Hydrological,Landslide,,Snow storm and heavy winds
+606,5540,Meteorological,Storm,Felix,
+607,5541,Meteorological,Storm,Henriette,
+608,5542,Meteorological,Storm,Ismael,
+609,5544,Meteorological,Storm,Roxane,
+610,5552,Geophysical,Volcanic activity,Chance's Peak,
+611,5565,Hydrological,Flood,,Rain and snowmelt
+612,5569,Geophysical,Volcanic activity,Mount Ruapehu,
+613,5577,Geophysical,Volcanic activity,Mt Pinatubo,
+614,5579,Meteorological,Storm,Kent (Gening),
+615,5580,Meteorological,Storm,Angela (Rosing),
+616,5587,Meteorological,Storm,03,
+617,5589,Meteorological,Storm,Bonita,
+618,5590,Meteorological,Storm,Greg,
+619,5596,Meteorological,Storm,Cesar and Douglas,
+620,5599,Meteorological,Storm,Lilli,
+621,5604,Climatological,Drought,,Lack rainfall
+622,5628,Meteorological,Storm,Marcos,
+623,5658,Geophysical,Volcanic activity,Grimsvotn,
+624,5661,Meteorological,Storm,Marco,
+625,5677,Meteorological,Storm,"Alma, Boris",
+626,5679,Meteorological,Storm,Elida,
+627,5680,Meteorological,Storm,Fausto,
+628,5688,Geophysical,Volcanic activity,Soufrière,
+629,5690,Meteorological,Storm,Daniella,
+630,5705,Meteorological,Storm,Fergus,
+631,5716,Meteorological,Storm,Bining,
+632,5717,Meteorological,Storm,,El Nino phenomenom
+633,5722,Hydrological,Flood,,El Nino
+634,5731,Meteorological,Storm,Martin,
+635,5762,Meteorological,Storm,Paka,
+636,5799,Meteorological,Storm,Oliwa,
+637,5810,Meteorological,Storm,Linda,
+638,5818,Meteorological,Storm,Gretelle,
+639,5819,Meteorological,Storm,Josie,
+640,5825,Meteorological,Storm,Olaf,
+641,5826,Meteorological,Storm,Pauline,
+642,5827,Meteorological,Storm,Rick,
+643,5837,Geophysical,Volcanic activity,Soufriere,
+644,5852,Meteorological,Storm,Drena,
+645,5863,Meteorological,Storm,Ivan,
+646,5867,Hydrological,Landslide,,Heavy rain
+647,5872,Meteorological,Storm,Yanni,
+648,5873,Geophysical,Volcanic activity,Arenal,
+649,5883,Meteorological,Storm,"Cilly, Désirée et Fanny",
+650,5905,Meteorological,Storm,03A,
+651,5921,Meteorological,Storm,Rex,
+652,5922,Meteorological,Storm,Vicky (7) and Waldo (8),
+653,5923,Meteorological,Storm,Zeb,
+654,5924,Meteorological,Storm,Stella,
+655,5937,Geophysical,Volcanic activity,"Mount Colima, Mount Popocatepel",
+656,5940,Meteorological,Storm,Isis,
+657,5941,Meteorological,Storm,Madeline & Lester,
+658,5968,Meteorological,Storm,Vicky and Todd (Emang and Gading),
+659,5969,Meteorological,Storm,Zeb (Iliang),
+660,5971,Meteorological,Storm,Faith (Norming),
+661,5976,Meteorological,Storm,Doug,
+662,5981,Meteorological,Storm,Harry,
+663,6024,Meteorological,Storm,Nina (Helming),
+664,6031,Meteorological,Storm,Zack,
+665,6037,Meteorological,Storm,Dan (Trining),
+666,6059,Hydrological,Flood,,Torrential rain
+667,6098,Meteorological,Storm,Gloria and Frankie,
+668,6106,Hydrological,Flood,,Torrential rains
+669,6141,Meteorological,Storm,'Blizzard 1996',
+670,6147,Hydrological,Flood,,"Heavy rains, Snowmlet"
+671,6150,Meteorological,Storm,Joséphine,
+672,6155,Meteorological,Storm,Frankie ,
+673,6169,Meteorological,Storm,Fritz,
+674,6172,Hydrological,Flood,,Snow melt
+675,6182,Climatological,Drought,,Lack of rainfall
+676,6183,Meteorological,Storm,Justin,
+677,6201,Meteorological,Storm,Andres,
+678,6215,Geophysical,Volcanic activity,Adatara,
+679,6248,Meteorological,Storm,Danny,
+680,6281,Meteorological,Storm,Charley,
+681,6284,Meteorological,Storm,"Chip, Elvis , Dawn",
+682,6297,Hydrological,Flood,,Ici jam
+683,6319,Meteorological,Storm,Ron,
+684,6353,Meteorological,Storm,"Yali, Zuman",
+685,6367,Meteorological,Storm,"Cilly, Desiree, Fanny",
+686,6385,Meteorological,Storm,Rona,
+687,6387,Meteorological,Storm,York,
+688,6395,Meteorological,Storm,Lenny,
+689,6397,Meteorological,Storm,Jose,
+690,6399,Meteorological,Storm,Vance,
+691,6401,Meteorological,Storm,John,
+692,6410,Meteorological,Storm,Lothar,
+693,6418,Meteorological,Storm,05B,
+694,6424,Meteorological,Storm,Floyd,
+695,6454,Meteorological,Storm,Dan,
+696,6455,Meteorological,Storm,Sam,
+697,6469,Climatological,Drought,,Lack of rain
+698,6470,Meteorological,Storm,Steve,
+699,6472,Meteorological,Storm,Maria,
+700,6492,Meteorological,Storm,Tessi,
+701,6555,Meteorological,Storm,Bilis,
+702,6556,Meteorological,Storm,Prapiroon,
+703,6557,Meteorological,Storm,Wukong,
+704,6576,Meteorological,Storm,Xylia,
+705,6590,Climatological,Drought,,"Lack of rain, El Nino"
+706,6598,Hydrological,Flood,,"Dam/levy, break or release"
+707,6625,Meteorological,Storm,Bart,
+708,6631,Hydrological,Flood,,Rain storms
+709,6635,Meteorological,Storm,2-A,
+710,6647,Geophysical,Volcanic activity,Mont Cameroon,
+711,6659,Meteorological,Storm,"Hurricane ""Irene""",
+712,6664,Meteorological,Storm,Anatol,
+713,6671,Geophysical,Volcanic activity,"Guagua Pinchicha, Tungurahua",
+714,6682,Meteorological,Storm,Dani,
+715,6689,Hydrological,Flood,,Heavy rain and snow melt
+716,6719,Meteorological,Storm,O2a,
+717,6771,Geophysical,Volcanic activity,Mount Colima,
+718,6785,Meteorological,Storm,Davina,
+719,6787,Hydrological,Flood,,Moosonal rain
+720,6788,Meteorological,Storm,Frank,
+721,6801,Geophysical,Volcanic activity,San Cristóbal,
+722,6826,Meteorological,Storm,Hudah,
+723,6830,Meteorological,Storm,"Eline, Gloria",
+724,6935,Meteorological,Storm,03B,
+725,6968,Geophysical,Volcanic activity,Mt. Isu,
+726,6969,Geophysical,Volcanic activity,Mt. Oyama,
+727,6970,Meteorological,Storm,Kirogi,
+728,6971,Meteorological,Storm,Saomai,
+729,6982,Meteorological,Storm,Prapiroon (Typhoon n°12),
+730,7003,Meteorological,Storm,Norman,
+731,7005,Geophysical,Volcanic activity,Popocatépetl,
+732,7098,Meteorological,Storm,Cora,
+733,7101,Meteorological,Storm,Babs,
+734,7105,Meteorological,Storm,Bonnie,
+735,7106,Meteorological,Storm,Frances,
+736,7107,Meteorological,Storm,Faith & Gil,
+737,7126,Climatological,Drought,,"Lack of rain, extreme temperature"
+738,7151,Meteorological,Storm,Dan (Pepang),
+739,7154,Meteorological,Storm,Etang,
+740,7155,Meteorological,Storm,Gening,
+741,7156,Meteorological,Storm,Ising (Olga),
+742,7157,Meteorological,Storm,Luding,
+743,7158,Meteorological,Storm,Neneng,
+744,7159,Meteorological,Storm,Reming,
+745,7160,Meteorological,Storm,Sendang,
+746,7232,Meteorological,Storm,Irene,
+747,7233,Meteorological,Storm,Dennis,
+748,7243,Hydrological,Flood,,Breif torrential rain
+749,7264,Meteorological,Storm,Xangsane (Reming),
+750,7271,Hydrological,Flood,,"Dam/Levy, break or release and heavy rains"
+751,7276,Hydrological,Flood,Maring,
+752,7277,Meteorological,Storm,Biring,
+753,7278,Meteorological,Storm,"Prapiroon ""12""",
+754,7285,Hydrological,Landslide,Garbage,Rain triggered by Typhoon Kai-Tak
+755,7287,Geophysical,Volcanic activity,Mt. Mayon,
+756,7290,Meteorological,Storm,Kai-Tak (Edeng),
+757,7292,Meteorological,Storm,Bebinca (Seniang),
+758,7293,Meteorological,Storm,Rumbia (Toyang),
+759,7298,Meteorological,Storm,Connie,
+760,7356,Meteorological,Storm,Kaemi,
+761,7361,Climatological,Drought,,Dry and hot weather
+762,7400,Meteorological,Storm,Leslie,
+763,7450,Meteorological,Storm,Auring,
+764,7460,Meteorological,Storm,Paula,
+765,7496,Meteorological,Storm,Michelle,
+766,7552,Meteorological,Storm,Jeannet,
+767,7578,Meteorological,Storm,Lili,
+768,7602,Hydrological,Flood,,"Cyclone Beni, heavy rains"
+769,7603,Climatological,Wildfire,,"High temperature, high winds"
+770,7605,Hydrological,Flood,,Heavy Rains
+771,7607,Hydrological,Flood,,"El Nino, heavy rains"
+772,7608,Hydrological,Landslide,,Hevay rains
+773,7609,Hydrological,Flood,,Ice jams
+774,7610,Meteorological,Storm,Calvann,
+775,7614,Hydrological,Flood,,"Heavy rains, hail and winds"
+776,7626,Hydrological,Flood,,ice jam/break-up
+777,7634,Meteorological,Storm,Chebi,
+778,7635,Meteorological,Storm,Durian and Utor,
+779,7636,Meteorological,Storm,Toraji,
+780,7637,Meteorological,Storm,Yutu,
+781,7639,Meteorological,Storm,Fitow,
+782,7652,Meteorological,Storm,Trina,
+783,7659,Hydrological,Flood,,Hurricane Michelle
+784,7660,Meteorological,Storm,Hurricane Michelle,
+785,7662,Meteorological,Storm,Willy,
+786,7664,Geophysical,Volcanic activity,Tungurahua,
+787,7677,Hydrological,Flood,,HEavy rain
+788,7714,Meteorological,Storm,01A,
+789,7733,Meteorological,Storm,Pabuk,
+790,7734,Meteorological,Storm,Danas,
+791,7754,Meteorological,Storm,Dalila,
+792,7757,Meteorological,Storm,Lorena,
+793,7787,Meteorological,Storm,Rusa,
+794,7791,Meteorological,Storm,Hary,
+795,7792,Meteorological,Storm,Jennifer,
+796,7796,Climatological,Drought,,Insufficient rains
+797,7799,Meteorological,Storm,Mitag,
+798,7812,Meteorological,Storm,Hagupit,
+799,7820,Meteorological,Storm,Rammasun,
+800,7823,Meteorological,Storm,Sinlaku,
+801,7835,Meteorological,Storm,Isidore,
+802,7852,Geophysical,Volcanic activity,Reventador,
+803,7864,Meteorological,Storm,Jeanett,
+804,7868,Meteorological,Storm,Chata'an,
+805,7885,Geophysical,Volcanic activity,de Fuego,
+806,7891,Meteorological,Storm,Pongsona,
+807,7902,Geophysical,Volcanic activity,Mt. Papandayan,
+808,7928,Climatological,Drought,,Insufficient and erratic monsoon rain
+809,7950,Meteorological,Storm,Halong,
+810,7974,Meteorological,Storm,Cyprien,
+811,7975,Meteorological,Storm,Kesiny,
+812,7978,Hydrological,Flood,,"Dam/Levy, break or release"
+813,7981,Meteorological,Storm,Julio,
+814,7982,Meteorological,Storm,Kenna,
+815,7992,Meteorological,Storm,Dzud,
+816,7997,Meteorological,Storm,Dina,
+817,8000,Meteorological,Storm,Ami,
+818,8007,Meteorological,Storm,Japhet,
+819,8017,Hydrological,Flood,,"Heavy snow, low temperatures, heavy rains"
+820,8032,Hydrological,Flood,,"Torrential rains, heavy winter storms"
+821,8035,Meteorological,Storm,Fari,
+822,8036,Hydrological,Flood,,Tropical depression/cyclone Delfina
+823,8039,Hydrological,Flood,,Tropical depression/Cyclone Delfina
+824,8040,Meteorological,Storm,Lingling (Nanang),
+825,8041,Meteorological,Storm,Kajiki (Quedan),
+826,8042,Meteorological,Storm,Nari,
+827,8095,Meteorological,Storm,Utor (Feria),
+828,8096,Meteorological,Storm,TD Jolina,
+829,8097,Meteorological,Storm,TS Labuyo ( Lekima),
+830,8129,Climatological,Drought,,Poor agro-climaic conditions
+831,8142,Meteorological,Storm,Waka,
+832,8151,Meteorological,Storm,Utor,
+833,8153,Meteorological,Storm,Trami,
+834,8171,Hydrological,Flood,,Ice jam/break
+835,8183,Meteorological,Storm,Durian,
+836,8184,Meteorological,Storm,Usagi,
+837,8187,Geophysical,Volcanic activity,Lopevi,
+838,8188,Meteorological,Storm,Sose,
+839,8197,Geophysical,Volcanic activity,Mt. Nyamuragira,
+840,8222,Hydrological,Flood,,Mountain glacier disloged
+841,8232,Hydrological,Landslide,,Monsoon rains
+842,8235,Meteorological,Storm,Zoe,
+843,8284,Meteorological,Storm,Halong (Anday),
+844,8285,Meteorological,Storm,Rammasun (Florita),
+845,8288,Meteorological,Storm,TD Caloy,
+846,8289,Meteorological,Storm,TD Juan,
+847,8290,Meteorological,Storm,TD Milenyo,
+848,8292,Geophysical,Volcanic activity,Mt Pago,
+849,8313,Meteorological,Storm,Hygos,
+850,8359,Meteorological,Storm,Nakri,
+851,8444,Hydrological,Flood,,"Heavy snowfalls, heavy rains"
+852,8446,Hydrological,Flood,,"Mousson rain, tidal surge"
+853,8449,Meteorological,Storm,Hailstorm,
+854,8452,Meteorological,Storm,Erica,
+855,8455,Meteorological,Storm,,Heavy rain
+856,8456,Hydrological,Flood,,Melting snow
+857,8458,Meteorological,Storm,Beni,
+858,8462,Hydrological,Flood,,"Heavy rains, melting snow"
+859,8496,Hydrological,Flood,,"Snowmelt, heavy rain"
+860,8497,Meteorological,Storm,Heta,
+861,8515,Hydrological,Flood,,Heavy rains and snowmelt
+862,8520,Climatological,Wildfire,,"High temperature, violent winds"
+863,8524,Hydrological,Flood,,Torrential rainstorms
+864,8525,Hydrological,Flood,,"Torrential rains, electric storms,"
+865,8527,Meteorological,Storm,Maemi,
+866,8530,Hydrological,Flood,,Constant rains
+867,8536,Meteorological,Storm,Etau,
+868,8537,Climatological,Drought,,"Lack of precipation, heat wave"
+869,8550,Hydrological,Flood,,"Heavy rains, high winds"
+870,8554,Hydrological,Flood,,"Heavy rain, deforestation"
+871,8555,Hydrological,Flood,,Raining season
+872,8561,Hydrological,Flood,,Monsoon rain 
+873,8565,Meteorological,Storm,Fabian,
+874,8568,Meteorological,Storm,Dujuan,
+875,8582,Meteorological,Storm,Odette,
+876,8584,Climatological,Drought,,Irregular and insufficient rainfall in 2001 and 2002
+877,8595,Hydrological,Flood,,"Heavy rains, snow melt"
+878,8597,Meteorological,Storm,Isabel,
+879,8610,Meteorological,Storm,Imbudo,
+880,8612,Meteorological,Storm,Nepartak,
+881,8613,Climatological,Wildfire,,Drought
+882,8628,Climatological,Wildfire,,"Lightening, heat wave, drought, pyromane"
+883,8629,Hydrological,Flood,,Hevay rains
+884,8630,Climatological,Drought,,"Crop failure, lack pasture, poor/erratic long rains"
+885,8631,Climatological,Wildfire,,"Drought, man"
+886,8632,Meteorological,Storm,Lupit,
+887,8639,Hydrological,Flood,,Cold front
+888,8644,Climatological,Drought,,Heat wave
+889,8649,Hydrological,Flood,,Mousson rains
+890,8665,Hydrological,Landslide,,"Heavy rains, melting snow"
+891,8675,Meteorological,Storm,Tingting,
+892,8676,Meteorological,Storm,Jeanne,
+893,8677,Meteorological,Storm,,Heavy rains
+894,8678,Meteorological,Storm,Megi (Lawin/18W),
+895,8681,Meteorological,Storm,Dianmu (Helen/09W),
+896,8682,Meteorological,Storm,Meari (Quinta/25W),
+897,8683,Meteorological,Storm,Tokage (Siony/27W),
+898,8684,Climatological,Drought,,Poor rainfall
+899,8703,Hydrological,Flood,,"Heavy rain, snowmelt"
+900,8706,Geophysical,Volcanic activity,Mt. Egon,
+901,8707,Hydrological,Flood,,Early monsoonal rain
+902,8715,Hydrological,Flood,,Rainstorms
+903,8721,Hydrological,Flood,,Heavy rains 
+904,8732,Meteorological,Storm,Aere (Marce/20W),
+905,8737,Meteorological,Storm,Chaba,
+906,8738,Meteorological,Storm,Ma-on (Rolly/26W),
+907,8741,Meteorological,Storm,Catarina,
+908,8743,Meteorological,Storm,Cosme (Sudal/03W),
+909,8745,Meteorological,Storm,Songda (Nina/22W),
+910,8753,Hydrological,Flood,,Break/release of dam/levy
+911,8774,Meteorological,Storm,Rananim (Karen/16W),
+912,8784,Meteorological,Storm,Gerda,
+913,8795,Climatological,Wildfire,,"Human, high temperature, drought and wind"
+914,8813,Geophysical,Volcanic activity,Mt. Bromo,
+915,8822,Hydrological,Flood,,Incessant rains
+916,8848,Meteorological,Storm,,Torrential rains
+917,8861,Geophysical,Volcanic activity,Karthala ,
+918,8863,Meteorological,Storm,Erwin,
+919,8876,Meteorological,Storm,,Heavy snowfall
+920,8879,Meteorological,Storm,Percy,
+921,8881,Hydrological,Flood,,Heavy rains and melting snow
+922,8890,Geophysical,Volcanic activity,Mt. Talang,
+923,8892,Hydrological,Landslide,,Snowstorms
+924,8897,Hydrological,Flood,,Dam/levy break or release
+925,8909,Meteorological,Storm,Linfa (Chedeng),
+926,8910,Meteorological,Storm,Soudelor (Egay),
+927,8912,Meteorological,Storm,Marty,
+928,8928,Hydrological,Flood,,"Sudden unseasonal rains, monsoonal rain"
+929,8932,Meteorological,Storm,Manou,
+930,8933,Meteorological,Storm,Ignacio,
+931,8939,Meteorological,Storm,Koni,
+932,8942,Hydrological,Landslide,,"Heavy rains, deforestation"
+933,8946,Meteorological,Storm,Bill,
+934,8947,Meteorological,Storm,,Rain and snow
+935,8951,Meteorological,Storm,Cela,
+936,8952,Hydrological,Flood,,Tropical depressions
+937,8968,Hydrological,Flood,,Continuous rains
+938,8981,Meteorological,Storm,Gilas (Koni),
+939,8982,Meteorological,Storm,Ineng,
+940,8983,Meteorological,Storm,Kabayan,
+941,8984,Meteorological,Storm,Nina (Krovanh),
+942,8985,Meteorological,Storm,Onyok (Dujuan),
+943,8987,Hydrological,Landslide,,Torrential rains
+944,8989,Climatological,Wildfire,,"Heat wave, drought, high winds, low humidity"
+945,9029,Hydrological,Flood,,"Tropical monsoon rain, cold depression"
+946,9043,Geophysical,Volcanic activity,Mt Anatahan,
+947,9045,Meteorological,Storm,Nida (Dindo/04W),
+948,9046,Meteorological,Storm,Ivy (P13),
+949,9049,Meteorological,Storm,Merbok (Violeta),
+950,9052,Meteorological,Storm,Mindulle (Igme/10W),
+951,9053,Meteorological,Storm,Muifa (Unding/29W),
+952,9057,Meteorological,Storm,Haima,
+953,9058,Meteorological,Storm,Chanthu (Gener/08W),
+954,9068,Meteorological,Storm,Galifo,
+955,9070,Hydrological,Flood,,Moonson rain
+956,9075,Hydrological,Flood,,Continuous rain from tropical depression Ambo
+957,9101,Meteorological,Storm,Elita,
+958,9106,Meteorological,Storm,Nock-ten (Tonyo/28W),
+959,9108,Meteorological,Storm,Gaston,
+960,9141,Hydrological,Landslide,,"Tropical waves, heavy rains"
+961,9143,Hydrological,Flood,,Unseasonable summer storms
+962,9148,Hydrological,Flood,,Intense rainfall
+963,9151,Hydrological,Flood,,Monsoon
+964,9153,Meteorological,Storm,Nanmadol (Yoyong/30W),
+965,9169,Climatological,Wildfire,,Dry and hot weather
+966,9178,Hydrological,Flood,,Torrental rains
+967,9206,Hydrological,Flood,,Rainstorm
+968,9209,Hydrological,Flood,,"Melting sow, heavy rain"
+969,9233,Hydrological,Flood,,Heavy rains and snow
+970,9239,Hydrological,Flood,,"Heavy rain, heavy snow"
+971,9242,Hydrological,Flood,,Heavy rains and ice
+972,9257,Meteorological,Storm,,Snowstorm
+973,9260,Meteorological,Storm,Ernest,
+974,9270,Meteorological,Storm,Roke (Auring/02W),
+975,9271,Hydrological,Flood,,Heavy raisn and melting snow
+976,9281,Hydrological,Landslide,,Heavy snowfall
+977,9288,Hydrological,Flood,,"Heavy rains, snowmelt"
+978,9304,Hydrological,Flood,,Heavy and melting snow
+979,9307,Hydrological,Flood,,Brief torrential rain and snowmelt
+980,9308,Hydrological,Flood,,Melting snow and continuous rain
+981,9311,Hydrological,Flood,,"Melting snow, sesonal rains"
+982,9315,Hydrological,Landslide,,"Heavy rains, snow"
+983,9316,Hydrological,Flood,,Heavy rain and snowmelt
+984,9317,Meteorological,Storm,Matsa (Gorio/09W),
+985,9319,Meteorological,Storm,Khanun (15),
+986,9320,Meteorological,Storm,"Hurricane ""Wilma""",
+987,9321,Meteorological,Storm,Alpha,
+988,9322,Meteorological,Storm,Gamma,
+989,9326,Meteorological,Storm,Talim,
+990,9327,Meteorological,Storm,Longwang,
+991,9328,Meteorological,Storm,"Hurricane ""Dennis""",
+992,9329,Meteorological,Storm,Stan,
+993,9331,Climatological,Drought,,"Lack of rain, prolonged dry season"
+994,9334,Hydrological,Flood,,Thunderstorm
+995,9345,Hydrological,Flood,,Violent thunderstorms
+996,9358,Hydrological,Flood,,Monsonal rains
+997,9363,Geophysical,Volcanic activity,Karthala,
+998,9369,Meteorological,Storm,Damrey,
+999,9371,Meteorological,Storm,Beta,
+1000,9372,Meteorological,Storm,Haitang (Feria/05W),
+1001,9376,Climatological,Drought,,Successive failed rainy seasons
+1002,9378,Climatological,Drought,,Two consecutive failed rainy seasons
+1003,9398,Hydrological,Flood,,Mosoon rains
+1004,9418,Climatological,Wildfire,,Dry wetaher and heat wave
+1005,9448,Hydrological,Flood,,Thunderstorms
+1006,9449,Climatological,Wildfire,,Barbecue and high winds
+1007,9451,Geophysical,Volcanic activity,Mount Arteala,
+1008,9454,Hydrological,Flood,,Large amount of snow during winter and late onset of spring thaw
+1009,9458,Meteorological,Storm,Gero,
+1010,9473,Hydrological,Flood,,Monsoonal rains
+1011,9478,Hydrological,Flood,,Mosnoon rain
+1012,9498,Meteorological,Storm,Chanchu (Caloy),
+1013,9512,Hydrological,Flood,,Continuous rain
+1014,9524,Hydrological,Flood,,Mosnoonal rain
+1015,9527,Hydrological,Flood,,Monsoonal rai
+1016,9531,Hydrological,Flood,,Rains and sonwmelt
+1017,9535,Hydrological,Flood,,Rains and snowmelt
+1018,9536,Hydrological,Flood,,Raisn and snowmelt
+1019,9537,Hydrological,Flood,,"Dam/levy break of release, rains and snowmelt"
+1020,9541,Meteorological,Storm,Glenda,
+1021,9550,Meteorological,Storm,Clare,
+1022,9551,Meteorological,Storm,Larry,
+1023,9557,Meteorological,Storm,Jim,
+1024,9559,Meteorological,Storm,Ernesto,
+1025,9560,Meteorological,Storm,,Monsoonal rain
+1026,9571,Hydrological,Flood,,Torrentail rain
+1027,9574,Hydrological,Flood,,Heavy rainfall
+1028,9613,Meteorological,Storm,Xangsane (Milenyo),
+1029,9619,Geophysical,Volcanic activity,Mount Galeras,
+1030,9627,Geophysical,Volcanic activity,Tungurahua ,
+1031,9631,Climatological,Wildfire,,Human
+1032,9632,Hydrological,Flood,,Heavy Rain
+1033,9648,Hydrological,Flood,,Snowmlet and hevay rain
+1034,9649,Hydrological,Flood,,Bad weather associated with tropical storm Chris
+1035,9651,Hydrological,Flood,,Snowmelt and strong rains
+1036,9672,Hydrological,Flood,,Monsoonal rain and Cyclonic storm Ogni
+1037,9674,Hydrological,Flood,,Heavy rains and hailstorms
+1038,9681,Hydrological,Flood,,"Heavy rains, melting ice"
+1039,9682,Hydrological,Flood,,Storms and heavy rains
+1040,9686,Hydrological,Flood,,Heavy rain due to El Nino
+1041,9688,Geophysical,Volcanic activity,Nevado del Huila,
+1042,9693,Geophysical,Earthquake,,Sub-marine volcano
+1043,9698,Meteorological,Storm,Cyclone 'Gonu',
+1044,9700,Hydrological,Flood,,"Torrential rain, El Nino blamed"
+1045,9703,Meteorological,Storm,Kyrill,
+1046,9710,Hydrological,Landslide,,Dam break
+1047,9730,Hydrological,Flood,,Late monsoon rains
+1048,9731,Meteorological,Storm,Nabi (Jolina/14W),
+1049,9737,Meteorological,Storm,Katrina,
+1050,9739,Hydrological,Flood,,Storm
+1051,9741,Meteorological,Storm,Mawar,
+1052,9744,Climatological,Drought,,"Locust infestation, repeated floods, pest infestation"
+1053,9745,Climatological,Drought,,Poor rainfall and indequater supplies of fertlizer
+1054,9746,Climatological,Drought,,Drought and locusts infestation
+1055,9747,Climatological,Drought,,Poor and erratic rainfall
+1056,9755,Hydrological,Flood,,Mosoonal rains
+1057,9760,Hydrological,Flood,,Seasonal warming of temperatures and rapid melting of snow
+1058,9782,Meteorological,Storm,Vicente,
+1059,9788,Meteorological,Storm,Rita,
+1060,9792,Climatological,Drought,,Lack of rains
+1061,9812,Hydrological,Flood,,Heavy rains and storms
+1062,9831,Hydrological,Flood,,Heavy snowfall during winter and unprecedented high temperatures
+1063,9840,Geophysical,Volcanic activity,"Langila, Manam",
+1064,9841,Hydrological,Flood,,Heavy rainsfalls
+1065,9857,Geophysical,Volcanic activity,Santa Ana (Ilamatepec),
+1066,9858,Meteorological,Storm,Adrian,
+1067,9892,Meteorological,Storm,Kai Tak (21),
+1068,9895,Geophysical,Volcanic activity,Mt. Ambae,
+1069,9903,Meteorological,Storm,Shanshan (13),
+1070,9905,Meteorological,Storm,Lane,
+1071,9909,Meteorological,Storm,Cimaron (Paeng),
+1072,9914,Meteorological,Storm,Durian (Reming),
+1073,9920,Hydrological,Flood,,Inter-Monsoonal rain and storms
+1074,9927,Meteorological,Storm,Queenie (Chebi),
+1075,9934,Hydrological,Flood,,Snowmelt and hevay rains
+1076,9938,Hydrological,Flood,,"Heavy rain, thunderstoms"
+1077,9944,Hydrological,Flood,,Torrentital rain
+1078,9947,Hydrological,Flood,,"Rain and snowmelt, excessive dumping of water"
+1079,9958,Meteorological,Storm,Bondo,
+1080,9959,Hydrological,Flood,,"Torrential rains, electrical storms, thunderstorms"
+1081,9961,Meteorological,Storm,Henry,
+1082,9967,Hydrological,Flood,,Heavy rains and lightening
+1083,9971,Meteorological,Storm,Mala,
+1084,9972,Hydrological,Landslide,,Monsoonal rains
+1085,9979,Climatological,Drought,,Scarcity of rain
+1086,9998,Meteorological,Storm,Boloetse,
+1087,10036,Geophysical,Volcanic activity,Ubinas,
+1088,10039,Hydrological,Flood,,Tropical Depression Agaton
+1089,10043,Hydrological,Landslide,,Continuous monsoon rain
+1090,10046,Meteorological,Storm,Utor (Seniang),
+1091,10047,Geophysical,Volcanic activity,Tavurvur ,
+1092,10048,Geophysical,Volcanic activity,Karai ,
+1093,10050,Hydrological,Landslide,,Torrential rain
+1094,10084,Hydrological,Flood,,Heavy rain and unseasonable snow
+1095,10116,Hydrological,Flood,,Severe storms
+1096,10144,Meteorological,Storm,Indhala,
+1097,10153,Meteorological,Storm,Gamède,
+1098,10159,Meteorological,Storm,Clovis,
+1099,10161,Hydrological,Flood,,Heavy rains and cyclones
+1100,10162,Meteorological,Storm,Jaya,
+1101,10164,Meteorological,Storm,Favio,
+1102,10169,Hydrological,Flood,,Excessive rains
+1103,10172,Hydrological,Landslide,,Heavy snow fall
+1104,10191,Meteorological,Storm,Daryl,
+1105,10198,Meteorological,Storm,Wipha/Goring,
+1106,10199,Meteorological,Storm,Noel,
+1107,10217,Hydrological,Flood,,continuous rain
+1108,10226,Hydrological,Flood,,Seasonal torrential rain
+1109,10228,Hydrological,Flood,,Monsoonal rain and tropical cyclone
+1110,10231,Hydrological,Flood,,"Heavy rain, La Nina"
+1111,10232,Hydrological,Flood,,"Heavy rain, thunderstorms"
+1112,10234,Hydrological,Flood,,"Heavy rains, violent storms"
+1113,10237,Meteorological,Storm,George and Jacob,
+1114,10239,Meteorological,Storm,Cyclone 'Sidr',
+1115,10241,Meteorological,Storm,Sepat,
+1116,10242,Meteorological,Storm,Krosa,
+1117,10259,Hydrological,Flood,,Melting snow and heavy rains
+1118,10264,Climatological,Wildfire,,High temperatures and dry conditions
+1119,10274,Climatological,Wildfire,,"High temperatures, heavy winds, dry conditions"
+1120,10279,Climatological,Drought,,Lack of rain from last six months
+1121,10295,Hydrological,Flood,,"La Nina, heavy rain"
+1122,10304,Hydrological,Flood,,Unknown
+1123,10307,Climatological,Wildfire,,Heat wave
+1124,10310,Geophysical,Volcanic activity,Mount Arteale,
+1125,10324,Climatological,Wildfire,,"Human, high winds and drought"
+1126,10329,Climatological,Wildfire,,"Hot and dry weather, strong winds"
+1127,10336,Geophysical,Volcanic activity,Mt. Gamkonora ,
+1128,10342,Hydrological,Flood,,Tropical depression in Bay of Bengal
+1129,10359,Hydrological,Flood,,"Heavy rains, concentration of humidity, over saturation of soil"
+1130,10360,Meteorological,Storm,"Typhoon ""Neoguri"" (Ambo)",
+1131,10361,Meteorological,Storm,"Tropical Storm ""Fay""",
+1132,10362,Meteorological,Storm,Hurricane Dolly,
+1133,10367,Meteorological,Storm,Hurricane Paloma,
+1134,10368,Climatological,Drought,,"Heavy drought, weak reany season, loss of animals, food shortages and increase of prices"
+1135,10369,Meteorological,Storm,Hurricane Ike,
+1136,10372,Hydrological,Flood,,Moonsonal rain
+1137,10373,Hydrological,Flood,,Storm and heavy rains
+1138,10386,Hydrological,Flood,,Indirect influence of tropical storms
+1139,10387,Hydrological,Flood,Tropical Depression Sixteen,Tropical Depression 16
+1140,10388,Hydrological,Flood,,"Heavy rains, combination of cold front and low pressure system"
+1141,10389,Meteorological,Storm,"Hurricane ""Gustav""",
+1142,10394,Hydrological,Flood,Tropical Depression Sixteen,"Tropical depression 16 (Paloma), low depression and swell"
+1143,10401,Hydrological,Flood,,"River Kosi in Nepal discharged huge levels of water, monsoonal rains"
+1144,10403,Meteorological,Storm,Hilal,
+1145,10404,Meteorological,Storm,"Tropical storm ""Nuri"" (Karen)",
+1146,10405,Meteorological,Storm,Hurricane 'Hanna',
+1147,10409,Meteorological,Storm,"Hurricane ""Omar""",
+1148,10411,Meteorological,Storm,"Cyclone ""Reshmi""",
+1149,10413,Meteorological,Storm,Tropical cyclone 'Arthur',
+1150,10414,Meteorological,Storm,Typhoon Fengshen (Franck),
+1151,10415,Meteorological,Storm,"Tropical Storm ""Fung-Wong"" (Igme)",
+1152,10416,Meteorological,Storm,"Tropical storm ""Kammuri"" (Julian)",
+1153,10419,Meteorological,Storm,"Cyclone ""Gene""",
+1154,10420,Meteorological,Storm,Johanna,
+1155,10422,Meteorological,Storm,"Typhoon ""Hagupit"" (Nina)",
+1156,10429,Climatological,Drought,,Delayed and below-normal rains
+1157,10438,Geophysical,Volcanic activity,Chaiten,
+1158,10455,Hydrological,Landslide,,Hevay tropical rains
+1159,10458,Hydrological,Flood,Tropical Depression Sixteen,Tropical depression 16
+1160,10461,Climatological,Drought,,"El Nino, dry ecosystem, high temperatures and lon period withoit rainfall"
+1161,10478,Hydrological,Flood,,Heavy rainstorms
+1162,10481,Hydrological,Landslide,,Heavy rains 
+1163,10484,Meteorological,Storm,"Typhoon ""Jangmi"" (Ofel)",
+1164,10495,Hydrological,Flood,,Torrential rains (cold front winter season)
+1165,10502,Hydrological,Flood,,Heavy seasonal rains
+1166,10536,Hydrological,Flood,,Tropical cyclone Nisha
+1167,10538,Hydrological,Flood,,Heavy monsoonal rain
+1168,10543,Meteorological,Storm,"Cyclone ""Aila""",
+1169,10563,Meteorological,Storm,"Tropical storm ""Dominic""",
+1170,10571,Hydrological,Landslide,,Brief torrential rain
+1171,10576,Meteorological,Storm,"Cyclone ""Bijli""",
+1172,10579,Hydrological,Flood,,Havy rains
+1173,10585,Hydrological,Flood,,Ice Jam/break-up
+1174,10615,Meteorological,Storm,Lorenzo,
+1175,10618,Meteorological,Storm,Chedeng and Dodong,
+1176,10619,Meteorological,Storm,Lekima (Hanna),
+1177,10620,Meteorological,Storm,Mitag (Mina) (23),
+1178,10621,Meteorological,Storm,Hagibis (Lando) (24),
+1179,10625,Meteorological,Storm,Cyclone 'Yemyin',
+1180,10628,Meteorological,Storm,Man-Yi,
+1181,10640,Hydrological,Flood,,Tropical storm Lando
+1182,10646,Hydrological,Flood,,heavy rain
+1183,10667,Meteorological,Storm,Fitow (9),
+1184,10668,Meteorological,Storm,Nari (11),
+1185,10672,Meteorological,Storm,Sepat,Heavy rain
+1186,10674,Meteorological,Storm,Goring,
+1187,10675,Meteorological,Storm,Cyclone 'Guba',Tropical cyclone Cuba
+1188,10682,Climatological,Drought,,High temperature and low rainfall
+1189,10683,Climatological,Drought,,"Drought, cyclone et inondations"
+1190,10698,Hydrological,Flood,,Typhoon Nari
+1191,10704,Hydrological,Flood,,High tides
+1192,10705,Hydrological,Flood,,"Heavy rain, Hurricane Felix"
+1193,10707,Climatological,Wildfire,,Heat waves
+1194,10733,Geophysical,Volcanic activity,Mt. Bulusan,
+1195,10736,Meteorological,Storm,Kabayan (Peipah),Tropical storm Peipah
+1196,10739,Climatological,Wildfire,,"Tradition of burning crop fields, drought and lack of rain"
+1197,10742,Hydrological,Flood,,"Snowmelt, Ice jam/break-up"
+1198,10749,Hydrological,Flood,,Hravy rain
+1199,10760,Hydrological,Flood,Monsoonal rain,Monsoonal rain
+1200,10780,Climatological,Drought,,Lack of precipitation
+1201,10781,Hydrological,Flood,,Tropical storm
+1202,10782,Hydrological,Flood,,Typhoon Peipah
+1203,10787,Geophysical,Volcanic activity,,Earthquake
+1204,10789,Hydrological,Flood,,Heavy rain and storms
+1205,10790,Climatological,Wildfire,,Drought situation
+1206,10791,Meteorological,Storm,Cyclone 'Nargis',
+1207,10794,Meteorological,Storm,"Tropical storm ""Kalmaegi""",
+1208,10797,Hydrological,Flood,,"Early monsoon, dam break"
+1209,10800,Meteorological,Storm,,"Cold front meeting warm, moist air"
+1210,10802,Meteorological,Storm,Halong (Cosme),
+1211,10803,Meteorological,Storm,"Typhoon ""Sinlaku""",
+1212,10814,Hydrological,Flood,,Tropical Storm Kammuri
+1213,10822,Hydrological,Flood,,"Heavy rains, El Nina and El Nino"
+1214,10827,Hydrological,Flood,,Storm and heavy vrain
+1215,10838,Meteorological,Storm,"Cyclone ""Fame""",
+1216,10839,Meteorological,Storm,"Cyclone ""Ivan""",
+1217,10843,Meteorological,Storm,"Tropical Storm ""Maysak"" (Quinta-Sony)",
+1218,10844,Meteorological,Storm,"TYphoon ""Rammasun"" (Butchoy)",
+1219,10845,Meteorological,Storm,"Typhoon ""Helen""",
+1220,10855,Meteorological,Storm,"Typhoon ""Mekkhala""",
+1221,10857,Meteorological,Storm,"Tropical storm ""Noul""",
+1222,10859,Climatological,Drought,,Lack of rains and increase of food prices
+1223,10861,Climatological,Drought,,"Severe winter storm, locust infestation, increase in food and fuel cost"
+1224,10866,Hydrological,Flood,,Tropical storm (level 3)
+1225,10884,Climatological,Drought,,Poor November rain
+1226,10895,Meteorological,Storm,"Cyclone ""Jokwe""",
+1227,10923,Hydrological,Flood,,"Torrential rain, Monsoon"
+1228,10924,Hydrological,Flood,,Heavy monsoon rains
+1229,10925,Hydrological,Flood,,Low pressure system
+1230,10927,Hydrological,Flood,,Heavy rain (Tail-end of a cold front)
+1231,10929,Hydrological,Flood,,Tropical Depression Julian
+1232,10936,Meteorological,Storm,"TRopical storm ""Higos"" (Pablo)",
+1233,10937,Hydrological,Flood,,Low depression
+1234,10945,Climatological,Drought,,Prolonged dry spelle and hig temperatures
+1235,10970,Climatological,Wildfire,,"Drought, high winds, heat waves, human factors"
+1236,10989,Climatological,Wildfire,,"Lightening, drought, wind"
+1237,10993,Geophysical,Volcanic activity,Mt. Ambrym,
+1238,10998,Meteorological,Storm,"Typhhon ""Dante"" (Kujira)",
+1239,10999,Meteorological,Storm,"Typhoon ""Emong"" (Chanom)",
+1240,11010,Meteorological,Storm,Cyclones Eric and Fanele,
+1241,11011,Meteorological,Storm,"Tropical storm ""Izilda""",
+1242,11016,Meteorological,Storm,"Tropical storm ""Jade""",
+1243,11036,Hydrological,Landslide,,High temperatures
+1244,11038,Hydrological,Flood,,"Snowmelt, hevay rain"
+1245,11041,Climatological,Wildfire,,Record temperatures and strong winds
+1246,11044,Hydrological,Flood,,Intense monsoonal activity
+1247,11047,Hydrological,Flood,,Heavy rain and melting snow
+1248,11067,Meteorological,Storm,Typhoon Morakot (Kiko),
+1249,11091,Meteorological,Storm,"Typhoon ""Koppu""",
+1250,11092,Meteorological,Storm,"Tropical cylone ""Goni""",
+1251,11093,Meteorological,Storm,Cyclone 'Mick',
+1252,11096,Climatological,Drought,,Low precipitations
+1253,11097,Climatological,Drought,,Failed rains
+1254,11100,Climatological,Drought,,La Nina
+1255,11111,Hydrological,Flood,,Tropical cyclone Laurence
+1256,11112,Hydrological,Flood,,Hevay rains and two cylones Ellie and Charlotte
+1257,11118,Hydrological,Flood,,Continuous rainfall and opening of Nagbéto dam in Togo
+1258,11131,Meteorological,Storm,Hurricane Bill,
+1259,11141,Meteorological,Storm,"Typhoon ""Pepeng"" (Parma)",
+1260,11151,Climatological,Drought,,"Poor rainy season, El NIno"
+1261,11158,Hydrological,Flood,,Heavy rains and Dam Release
+1262,11167,Hydrological,Flood,,Heavy torrential rains
+1263,11178,Meteorological,Storm,Cyclone Phyan,
+1264,11187,Meteorological,Storm,Typhoon Fanapi,
+1265,11188,Meteorological,Storm,Tropical storm Matthew,
+1266,11190,Meteorological,Storm,Tropical storm 'Nicole',
+1267,11203,Hydrological,Flood,,Heavy monsoonal rains
+1268,11206,Hydrological,Flood,,"Heavy rains, system of low pressure in combination with Tropical Storm Tomas"
+1269,11208,Meteorological,Storm,Hurricane Tomas,
+1270,11212,Meteorological,Storm,Hurricane Agatha,
+1271,11231,Meteorological,Storm,"Cyclone ""Laila""",
+1272,11232,Climatological,Drought,,Severe dry conditions
+1273,11233,Meteorological,Storm,Hurricane Earl,
+1274,11236,Meteorological,Storm,"Cyclone ""Tomas""",
+1275,11237,Meteorological,Storm,Xynthia,
+1276,11243,Meteorological,Storm,Cyclone Jal,
+1277,11244,Geophysical,Volcanic activity,Eyjafjallajokull,
+1278,11260,Hydrological,Flood,,"Cyclone Tasha, La Nina"
+1279,11261,Meteorological,Storm,"Cyclone ""Ului""",
+1280,11265,Climatological,Drought,,Rainfall deficit in October December 2010
+1281,11283,Hydrological,Flood,,"El Nino, Heavy rains"
+1282,11292,Climatological,Drought,,Extremely dry conditipns
+1283,11313,Hydrological,Landslide,,Heavy snow
+1284,11314,Meteorological,Storm,Typhoon Conson (Basyang),
+1285,11315,Meteorological,Storm,Typhoon Megi (Juan),
+1286,11316,Meteorological,Storm,Typhoon Meranti,
+1287,11322,Hydrological,Flood,,"Heavy rains, La Nina"
+1288,11327,Climatological,Wildfire,,Dry conditions
+1289,11335,Hydrological,Flood,,Torrentail rains
+1290,11339,Hydrological,Flood,,Torrential rainfall
+1291,11355,Hydrological,Flood,,Heavy rains and opening of the gates of dikes
+1292,11364,Geophysical,Volcanic activity,Pacaya volcano,
+1293,11365,Hydrological,Landslide,,"Heavy rains, convergence of two low-pressure systems"
+1294,11366,Meteorological,Storm,"Tropical storm ""Alex""",
+1295,11368,Meteorological,Storm,Typhoon Chanthu,
+1296,11379,Geophysical,Volcanic activity,Mt. Sinabung,
+1297,11384,Hydrological,Landslide,,Heavy rains and human work
+1298,11405,Hydrological,Flood,,"Torrential rain, La Nina"
+1299,11417,Meteorological,Storm,Hurricane Irene,
+1300,11419,Meteorological,Storm,"Tropical Cyclone ""Yasi""",
+1301,11422,Meteorological,Storm,"Typhoon ""Kabayan"" (Muifa)",
+1302,11427,Geophysical,Volcanic activity,"Volcano ""Puyehue""",
+1303,11432,Hydrological,Flood,,Fonte des neiges et pluies
+1304,11434,Hydrological,Flood,,Continuous torrential rain combined with monsoonal depression
+1305,11451,Meteorological,Storm,"Tropical storm ""Dodong"" (Sarika)",
+1306,11459,Meteorological,Storm,"Tropical storm ""Emily""",
+1307,11465,Meteorological,Storm,"Tropical storm ""Dora""",
+1308,11472,Hydrological,Flood,,Mosnoonal rains
+1309,11478,Meteorological,Storm,Tropical depression Maring,
+1310,11479,Meteorological,Storm,Tropical Depression Nando,
+1311,11481,Meteorological,Storm,"Hurricane ""Ida""",
+1312,11483,Meteorological,Storm,Hurricane Jimena,
+1313,11487,Meteorological,Storm,"Topical Storm ""Feria"" (Nangka)",
+1314,11488,Hydrological,Flood,,"El Nino, exceptional heavy rains"
+1315,11497,Meteorological,Storm,Tropical storm Labuyo (Dujuan),
+1316,11498,Meteorological,Storm,"Tropical storm ""Mirinae"" (Santi)",
+1317,11499,Meteorological,Storm,"Tropical depression ""Urduja""",
+1318,11511,Meteorological,Storm,"Typhoon ""Etau""",
+1319,11512,Meteorological,Storm,"Tropical storm ""Ondoy"" (Ketsana)",
+1320,11515,Meteorological,Storm,Goni (Jolina),
+1321,11520,Climatological,Drought,,Irregular rain
+1322,11522,Climatological,Drought,,"Poor, irregular, dispersed and eraly cessation of rainfall"
+1323,11523,Meteorological,Storm,"TYphoon ""Melor""",
+1324,11541,Hydrological,Flood,,"Heavy rain, cold front"
+1325,11573,Meteorological,Storm,"Tropical Storm ""Isang"" (Molave)",
+1326,11580,Hydrological,Flood,,Continuous rainfall
+1327,11582,Climatological,Drought,,"La Nina and El Nino, deforestation"
+1328,11611,Meteorological,Storm,"Tropical storm ""Hubert""",
+1329,11613,Meteorological,Storm,Typhoon Kompasu,
+1330,11622,Meteorological,Storm,Hurricane Frank,
+1331,11623,Meteorological,Storm,Cyclone 'Giri',
+1332,11625,Meteorological,Storm,"Cyclone ""Oli""",
+1333,11627,Hydrological,Flood,,"Heavy rains, Long Rains Season (March-June)"
+1334,11629,Hydrological,Flood,,Heavy rains associated with Tropical Depression 11E
+1335,11632,Hydrological,Flood,,Heavy rain and snow
+1336,11634,Hydrological,Flood,,Low pressure system interacting with Tropical Storm Tomas
+1337,11638,Hydrological,Flood,,Continuous rains due to tail-end of a cold front
+1338,11644,Hydrological,Flood,,"Heavy rain, Snowmelt and rise of temperature"
+1339,11651,Climatological,Wildfire,,Heat wave and drought
+1340,11653,Meteorological,Storm,Hurricane 'Karl',
+1341,11654,Meteorological,Storm,"Cyclone ""Phet""",
+1342,11660,Meteorological,Storm,Tropical storm Hermine,
+1343,11663,Climatological,Drought,,Seasonal rain above the average in 2010 and 2011
+1344,11665,Climatological,Drought,,Failure of Gu and Deyr rain y seasons in 2009
+1345,11667,Meteorological,Storm,Tropical storm Ester (Dianmu),
+1346,11706,Hydrological,Flood,,"Intermittent rain, tropical depression Agatha"
+1347,11731,Hydrological,Flood,,Moderate and heavy rain
+1348,11732,Hydrological,Landslide,,Continuous heavy rains
+1349,11745,Hydrological,Flood,,Sharp increase in temperatures triggering melting snow
+1350,11759,Hydrological,Flood,,Tropical Depression
+1351,11775,Hydrological,Flood,,"Heavy rains, Moonson rain"
+1352,11801,Hydrological,Flood,,Heavy rains associated with Tropical depression 14
+1353,11806,Meteorological,Storm,Typhoon Mindulle,
+1354,11807,Meteorological,Storm,"Tropical storm ""Beatrix""",
+1355,11808,Meteorological,Storm,Typhoon Bebeng (Aere),
+1356,11810,Meteorological,Storm,"Topical storm ""Meari"" (Falcon)",
+1357,11811,Meteorological,Storm,Topical storm Juaning (Nock-ten),
+1358,11816,Meteorological,Storm,"Tropical Storm ""Arlene""",
+1359,11819,Hydrological,Flood,,"Tropical storm Nock-Ten, Monsoonal rains"
+1360,11827,Hydrological,Flood,,"Monsoonal rains, tropical storms"
+1361,11833,Climatological,Wildfire,,Lightning
+1362,11834,Meteorological,Storm,Tropical Cyclone'Bingiza',
+1363,11843,Hydrological,Flood,,Abundant snowmelt and heavy rains
+1364,11845,Hydrological,Flood,,Tropical storm Haima
+1365,11880,Meteorological,Storm,Typhoon Mina (Nanmadol),
+1366,11893,Meteorological,Storm,Tropical cyclone Wilma,
+1367,11901,Climatological,Wildfire,,"Drought, high temperatures and strong winds"
+1368,11906,Climatological,Drought,,"Bad distibution of rain, conflict and bad recolt"
+1369,11907,Geophysical,Volcanic activity,Mt. Garet,
+1370,11920,Hydrological,Flood,,Heavy and constant rain
+1371,11937,Hydrological,Flood,,"Heavy rains, Rapid snow melting"
+1372,11945,Hydrological,Flood,,Rainfall
+1373,11951,Hydrological,Flood,,Tropical Depression 12-E
+1374,11952,Hydrological,Flood,,"Heavy rains, Tropical Depression 12-E"
+1375,11956,Meteorological,Storm,Typhoon Pedring (Nesat),
+1376,11957,Meteorological,Storm,Tropical storm Orphelia,
+1377,11959,Climatological,Drought,,Limited snowfall and rainfall
+1378,11961,Climatological,Drought,,"Consecutive seasons of poor rainfall, rapid population growth, sustained high food prices, endemic poverty"
+1379,11963,Meteorological,Storm,Joachim,
+1380,11965,Meteorological,Storm,"Tropical cyclone ""Vania""",
+1381,11983,Climatological,Wildfire,,"Dry conditions, strong winds"
+1382,11984,Meteorological,Extreme temperature ,,Cold front
+1383,11985,Climatological,Wildfire,,"High temperatures, vrable winds, human beings"
+1384,11990,Meteorological,Storm,Tropical Storm Haima (Egay),
+1385,12014,Hydrological,Flood,,"Monsoonal rains, dam releases"
+1386,12017,Meteorological,Storm,Cyclone Thane,
+1387,12018,Meteorological,Storm,Tropical storm Gener (Saola),
+1388,12019,Hydrological,Flood,,"Snow, heavy rains and hail"
+1389,12020,Meteorological,Storm,Hurricane Sandy,
+1390,12022,Climatological,Drought,,"Late, erratic and unevenly distributed rainbfall during 2011/2012"
+1391,12023,Meteorological,Storm,Tropical Cyclone Iggy,
+1392,12024,Meteorological,Storm,Cyclone Nilam,
+1393,12035,Hydrological,Flood,,Low pressure systeù
+1394,12037,Hydrological,Flood,,"Heavy rains, TRopical depression"
+1395,12054,Meteorological,Storm,Typhoon Vicente,
+1396,12055,Meteorological,Storm,Typhoon Damrey,
+1397,12059,Hydrological,Flood,,"Torrential rain, continuous precipittaion and melting of huge accumulation of snow"
+1398,12063,Hydrological,Landslide,,Redoux after heavy snow
+1399,12094,Hydrological,Flood,,Snowmelt and heavy rains
+1400,12098,Hydrological,Flood,Heavy rains,Heavy rains
+1401,12116,Hydrological,Flood,,Typhoon Bolaven
+1402,12118,Meteorological,Storm,Typhoon Haikui,
+1403,12119,Meteorological,Storm,TYphoon Kai-Tak,
+1404,12120,Meteorological,Storm,Typhoon Son Tinh (Ofel),
+1405,12132,Meteorological,Storm,Hurricane Isaac,
+1406,12147,Hydrological,Flood,,"Heavy rains, tropical depression TD17F-2012"
+1407,12148,Meteorological,Storm,Cyclone Evan,
+1408,12152,Hydrological,Flood,,"Heavy rains, hurricane Nadine"
+1409,12154,Hydrological,Flood,,On emonth worth-of-rainfall
+1410,12167,Hydrological,Flood,,Strong rains
+1411,12189,Meteorological,Storm,Storm Dirk,
+1412,12192,Meteorological,Storm,Storm Xaver,
+1413,12193,Meteorological,Storm,Tropical storm Fitow,
+1414,12218,Meteorological,Storm,Ex-Tropical cyclone Oswald,
+1415,12221,Meteorological,Storm,Tropical storm Utor (Labuyo),
+1416,12222,Meteorological,Storm,Typhoon Trami (Maring),
+1417,12223,Meteorological,Storm,Tropical storm Jebi,
+1418,12238,Climatological,Wildfire,,"Heat wave, dry conditions and gusty winds"
+1419,12239,Climatological,Wildfire,,High temperature and violent winds
+1420,12248,Meteorological,Storm,Tropical cyclone Mahasen,
+1421,12252,Hydrological,Landslide,,Excessive rains
+1422,12273,Hydrological,Flood,,Prolonged heavy rainfall
+1423,12274,Hydrological,Flood,,Excessive rainfall
+1424,12278,Hydrological,Flood,,Sweeping cold front with heavy snowfall and rains
+1425,12281,Hydrological,Landslide,,Persitent rain
+1426,12282,Meteorological,Storm,Typhoon Soulik,
+1427,12283,Meteorological,Storm,Typhoon Rumbia,
+1428,12284,Meteorological,Storm,Tropical storm Ciramon,
+1429,12285,Meteorological,Storm,Typhoon Usagi (Odette),
+1430,12286,Meteorological,Storm,Typhoon Wutip ,
+1431,12287,Meteorological,Storm,Typhoon Haiyan (Yolanda),
+1432,12297,Meteorological,Storm,Storm Christian,
+1433,12329,Hydrological,Flood,,Moonsonal rains
+1434,12336,Hydrological,Flood,,Heavy rains enhanced by Tropical cyclone Rusty
+1435,12347,Hydrological,Flood,,Maybe linked to an earthquake
+1436,12350,Climatological,Wildfire,,"Extreme heat, dry conditions and gusty winds"
+1437,12352,Hydrological,Landslide,,Violent weather
+1438,12360,Meteorological,Storm,Typhoon Talas,
+1439,12362,Meteorological,Storm,Hurricane Jova,
+1440,12363,Meteorological,Storm,Tropical storm Washi (Sendong),
+1441,12364,Hydrological,Flood,,Torrenial rain
+1442,12366,Hydrological,Flood,,Tropical storm 2
+1443,12374,Meteorological,Storm,Typhoon Quiel (Nalgae),
+1444,12379,Meteorological,Storm,Typhoon Ma-on,
+1445,12380,Meteorological,Storm,Typhoon Roke,
+1446,12381,Meteorological,Storm,Typhoon Chedeng (Songda),
+1447,12383,Climatological,Drought,,Polonged periods of drought follwoed by excessive rains
+1448,12384,Climatological,Drought,,Insufficient rainfall
+1449,12386,Climatological,Drought,,"Dry spells and pests, bad harvests 2010/2011"
+1450,12388,Climatological,Drought,,Poor rainy season
+1451,12391,Meteorological,Storm,Hurricane Nate,
+1452,12400,Hydrological,Flood,,Heavy raisn and storms
+1453,12401,Hydrological,Flood,,"Heavy rains, tropical storm"
+1454,12410,Hydrological,Flood,,Storms
+1455,12420,Meteorological,Storm,Keila,
+1456,12425,Geophysical,Volcanic activity,Mt. Taal ,
+1457,12431,Hydrological,Flood,,Low Pressure Area and Tail End of the Cold FRont
+1458,12434,Meteorological,Storm,Tropical Storm Ramon (Banyan),
+1459,12451,Meteorological,Storm,Typhoon Tembin,
+1460,12452,Meteorological,Storm,"Tropical depression ""Irina""",
+1461,12457,Meteorological,Storm,Tropical storm Wukong (Quinta),
+1462,12475,Meteorological,Storm,Cyclone Funso,
+1463,12476,Meteorological,Storm,Cyclone Giovanna,
+1464,12478,Meteorological,Storm,Tropical Storm Dando,
+1465,12482,Meteorological,Storm,Typhoon Igme (Tembin),
+1466,12483,Meteorological,Storm,Typhoon Lawin (Jelawat),
+1467,12484,Meteorological,Storm,Typhoon Bolaven,
+1468,12485,Climatological,Drought,,"Lenthly dry spells overt past 3 years, current high food prices and recent devaluation of the currency"
+1469,12487,Climatological,Drought,,Environmenatl effectes associated with la Nina lead to disruption of rain patterns
+1470,12488,Climatological,Drought,,Insufficent rains
+1471,12505,Meteorological,Storm,Typhoon Jelawat,
+1472,12506,Meteorological,Storm,Typhoon Sanba,
+1473,12507,Hydrological,Flood,,Quick snow melting and heavy rains
+1474,12521,Climatological,Drought,,Combined impact of poor rainfall and extremely high temperatures
+1475,12524,Meteorological,Storm,Hurricane Carlotta,
+1476,12553,Hydrological,Flood,,Tail-end of a cold front
+1477,12554,Hydrological,Flood,,Effects of low pressure area
+1478,12556,Hydrological,Flood,,Monsoonal rain enhnaced by Typhoon Haikui and Saola
+1479,12561,Meteorological,Storm,Typhoon Karen,
+1480,12562,Meteorological,Storm,Tropical Storm Marce (Gaemi),
+1481,12563,Meteorological,Storm,Typhoon Bopha,
+1482,12574,Hydrological,Flood,,"Temperature, melting snow and spring rains"
+1483,12620,Meteorological,Storm,Tropical storm Fernand,
+1484,12621,Meteorological,Storm,Hurricane Manuel ,
+1485,12622,Meteorological,Storm,Hurricane Ingrid,
+1486,12624,Meteorological,Storm,Typhoon Wipha,
+1487,12625,Hydrological,Flood,,"Heavy rains, low level troug system"
+1488,12628,Meteorological,Storm,Cyclone Phailin,
+1489,12629,Meteorological,Storm,Cyclone 3A,
+1490,12635,Hydrological,Flood,,"Monsoonal rain (HABAGAT), enhanced by Tropical Storm Maring (Trami)"
+1491,12646,Meteorological,Storm,Tropical storm Man-Yi,
+1492,12647,Meteorological,Storm,Tropical cyclone Haruna,
+1493,12649,Meteorological,Storm,Tropcal storm Auring,
+1494,12650,Meteorological,Storm,Tropical storm Nari (SAnti),
+1495,12651,Meteorological,Storm,Typhoon Krosa (Vinta),
+1496,12652,Meteorological,Storm,Winter storm Alexa,
+1497,12653,Meteorological,Storm,Topical Depression Feleng,
+1498,12654,Climatological,Drought,,Limited rainfall
+1499,12656,Hydrological,Flood,,"Continuous showers and thuderstorms, Effect of Continuous Rain and Thunderstorms Due to Intertropical Convergence Zone"
+1500,12664,Hydrological,Flood,,Cyclone Cleopatra
+1501,12669,Meteorological,Storm,Tropical storm Toraji,
+1502,12675,Hydrological,Flood,,Monsoonal rains and Typhoon Usagi
+1503,12676,Hydrological,Flood,,Persitent rains
+1504,12677,Hydrological,Flood,, Tropical Depression 18
+1505,12681,Hydrological,Flood,,Monsoon rainfall
+1506,12685,Meteorological,Storm,Hurricane Barbara,
+1507,12686,Climatological,Drought,,Prolonged dry weather
+1508,12718,Geophysical,Volcanic activity,Mount Ubinas,
+1509,12724,Meteorological,Storm,Tropical depression Crising (Shanshan),
+1510,12730,Hydrological,Flood,,Persistent rainfall
+1511,12731,Climatological,Drought,,Rainfall shortages
+1512,12737,Hydrological,Flood,,"Rains, thunderstorms"
+1513,12742,Climatological,Wildfire,,Dry Hamatan wind
+1514,12743,Geophysical,Volcanic activity,Chaparrastique Volcano,
+1515,12744,Hydrological,Flood,,Gu rains
+1516,12766,Meteorological,Storm,Tropical Depression Agaton ( (Lingling),
+1517,12771,Meteorological,Storm,Cyclone Beisja,
+1518,12773,Meteorological,Storm,Ian,
+1519,12776,Meteorological,Storm,Tropical Storm Lee,
+1520,12783,Hydrological,Flood,,Heavy snowmelt and rains
+1521,12786,Climatological,Wildfire,,Drought conditions and strong winds
+1522,12792,Hydrological,Flood,,Monsoonla rains exacerbated by 3 tropical storms
+1523,12802,Climatological,Drought,,Severe lack of rainand extreme temperature
+1524,12813,Meteorological,Storm,Tropical storm Debby,
+1525,12815,Climatological,Wildfire,Waldo Canyon Fire,
+1526,12834,Hydrological,Flood,,"Heavy rains, low-levl troug system"
+1527,12848,Meteorological,Storm,Cleon and Dion,
+1528,12852,Hydrological,Flood,,Slow moving storm system
+1529,12856,Hydrological,Flood,,Torrentiak rain
+1530,12858,Climatological,Wildfire,,"Hot temperatures, gusty winds, dry forest conditions"
+1531,12864,Hydrological,Flood,,Mosoonal rain and typhoon Usagi
+1532,12866,Hydrological,Flood,,Tropical depression Podul
+1533,12879,Meteorological,Storm,Typhoon Rammasun (Glenda),
+1534,12881,Meteorological,Storm,Boris,
+1535,12883,Climatological,Wildfire,,"Dry and warm winds, high temperature"
+1536,12888,Meteorological,Storm,,Heavy monsoonal rain
+1537,12890,Hydrological,Flood,,Torrential monsoon rains
+1538,12910,Hydrological,Flood,,Depression 'Gonzalo'
+1539,12914,Meteorological,Storm,Hagibis,
+1540,12915,Meteorological,Storm,Typhoon Kalmaegi (Luis),
+1541,12916,Meteorological,Storm,Cyclone Helen,
+1542,12917,Meteorological,Storm,Ulla,
+1543,12935,Hydrological,Flood,,Severe thunderstorm and heavy rainfall
+1544,12944,Climatological,Drought,,"Lack of rain 2012 and 2013, high temperatures"
+1545,12948,Meteorological,Storm,,Days of rains and hails
+1546,12966,Meteorological,Storm,Typhoon Henry (Matmo),
+1547,12967,Meteorological,Storm,Tropical strom Fung-Wong (Mario),
+1548,12970,Hydrological,Flood,,Monsoonal rains and thunderstorms
+1549,12971,Hydrological,Landslide,,Severe rain
+1550,12972,Hydrological,Flood,,Haevy rainfall
+1551,12976,Hydrological,Flood,,Rainy season
+1552,12979,Geophysical,Volcanic activity,Pico do Fogo,
+1553,13002,Meteorological,Storm,Hurricane Erika,
+1554,13011,Meteorological,Storm,Hurricane 'Joaquin',
+1555,13024,Hydrological,Flood,,Landslide blocked river
+1556,13032,Hydrological,Landslide,,Heavy rains and snow melt
+1557,13034,Meteorological,Storm,Cyclone 'Komen',
+1558,13036,Meteorological,Storm,Typhoon' Maysak',
+1559,13037,Meteorological,Storm,Tropical storm Kujira,
+1560,13038,Meteorological,Storm,Typhoon 'Soudelor' (Hanna),
+1561,13041,Meteorological,Storm,Storm Desmond (Ted),
+1562,13050,Hydrological,Landslide,,Hevay snowfall
+1563,13056,Geophysical,Volcanic activity,Calbuco,
+1564,13061,Meteorological,Storm,Cyclone Lam ,
+1565,13062,Meteorological,Storm,Cyclone 'Marcia',
+1566,13063,Meteorological,Storm,Cyclone 'Olwyn',
+1567,13074,Hydrological,Flood,,Heavy rains and strong winds
+1568,13081,Hydrological,Landslide,,Rainfall
+1569,13083,Climatological,Drought,,"Lack of rain, heat wave"
+1570,13084,Climatological,Wildfire,,"Hot, dry and windy conditions"
+1571,13086,Geophysical,Volcanic activity,Villarrica,
+1572,13087,Climatological,Wildfire,,High temperatures and wind
+1573,13097,Hydrological,Flood,,Heavy seasonal Mei-Yu rains
+1574,13098,Hydrological,Flood,,Mei-Yu rains
+1575,13100,Hydrological,Landslide,,Flood
+1576,13101,Meteorological,Storm,Typhoon Chan-Home,
+1577,13102,Meteorological,Storm,Tropical cyclone Linfa (Egay),
+1578,13103,Meteorological,Storm,Typhoon Dujuan,
+1579,13104,Meteorological,Storm,Typhoon Mujigae,
+1580,13106,Hydrological,Flood,,Seasonal rains
+1581,13114,Meteorological,Storm,Hurricane 'Fred',
+1582,13115,Geophysical,Volcanic activity,Turrialba,
+1583,13116,Climatological,Drought,,El Nino; long uninterrupted drought combined with heavy unseasonable rains
+1584,13128,Climatological,Drought,,El NIno
+1585,13133,Hydrological,Flood,,"Heavy rains, Storms Eva ad Franck"
+1586,13148,Meteorological,Storm,Cyclone Roanu,
+1587,13152,Meteorological,Storm,Cyclone Winston,
+1588,13156,Hydrological,Flood,,Torrential arins
+1589,13159,Hydrological,Flood,,"Torrential rains, El Nino"
+1590,13162,Climatological,Wildfire,Fort McMurray wildfires,
+1591,13167,Meteorological,Storm,Typhoon Butchoy (Nepartak),
+1592,13169,Meteorological,Storm,Tropical cyclone Zena,
+1593,13178,Hydrological,Flood,,Extreme rainfall
+1594,13182,Climatological,Wildfire,Yarloop busfires,Lighthning
+1595,13188,Meteorological,Storm,Tropical storm 'Earl',
+1596,13218,Meteorological,Storm,Typhoon Neoguri,
+1597,13219,Meteorological,Storm,Typhoon Phanfone,
+1598,13220,Hydrological,Flood,,"Monsoon season, torrential rains"
+1599,13222,Meteorological,Storm,Topical storm Basyang (Kajiki),
+1600,13225,Meteorological,Storm,Hurricane Odile,
+1601,13229,Meteorological,Storm,Tropical storm Nakri,
+1602,13230,Meteorological,Storm,Tropical storm Trudy,
+1603,13231,Meteorological,Storm,Typhoon 'Hagupit' (Ruby),
+1604,13233,Climatological,Drought,,Short and poorrainy season
+1605,13234,Meteorological,Storm,,Remnant low pressure system of cyclone Hudhud
+1606,13235,Hydrological,Flood,,"Heavy rains, overflowing rivers after dam opening in Nepal"
+1607,13241,Hydrological,Flood,,Torrential monsoonal rains; Typhoon Kalmaegi
+1608,13250,Hydrological,Flood,,Incessant heavy rains
+1609,13251,Meteorological,Storm,Tropical storm 'Jangmi' (Seniang),
+1610,13256,Hydrological,Flood,,Prolonged heavy rainfall associated with a tropical depression
+1611,13258,Meteorological,Storm,Tropical storm Dolly,
+1612,13263,Meteorological,Storm,,Violents orages et impressionnantes crues d'oueds
+1613,13264,Meteorological,Storm,Hurricane Marie,
+1614,13265,Meteorological,Storm,Hurricane Norbert,
+1615,13267,Meteorological,Storm,Tropical storm 'Sinlaku' (Queenie),
+1616,13269,Climatological,Drought,,Rainfall deficit
+1617,13271,Meteorological,Storm,Cyclone Hudhud,
+1618,13273,Hydrological,Flood,,Heavy and unseasonal rain
+1619,13282,Hydrological,Flood,,Torrential monsoonal rain
+1620,13296,Hydrological,Landslide,,Torrential rainfall
+1621,13297,Meteorological,Storm,Typhoon Halong,
+1622,13298,Meteorological,Storm,Typhoon Vongfong,
+1623,13300,Geophysical,Volcanic activity,Mt. Ontake,
+1624,13301,Hydrological,Flood,,"Dam burst, snowmelt"
+1625,13316,Hydrological,Landslide,,Torrential monsoon rains
+1626,13322,Meteorological,Extreme temperature ,,Heavy snow falls
+1627,13349,Geophysical,Volcanic activity,Mt. Bagana,
+1628,13351,Meteorological,Storm,Cyclone Ita,
+1629,13355,Hydrological,Flood,,Intense rains
+1630,13364,Hydrological,Flood,,Heay rain
+1631,13373,Climatological,Drought,,Dry conditions
+1632,13377,Meteorological,Storm,Typhoon Nangka,
+1633,13378,Meteorological,Storm,Tropical storm 'Chedza' ,
+1634,13379,Meteorological,Storm,Tropical storm 'Amang' (Mekkhala),
+1635,13380,Meteorological,Storm,Typhoon Goni (Ineng),
+1636,13381,Meteorological,Storm,Typhoon Koppu (Lando),
+1637,13382,Meteorological,Storm,Typhoon Melor (Nona),
+1638,13392,Hydrological,Flood,,"Monsoon rains, exacerbated by tail end of Cyclone Komen"
+1639,13393,Hydrological,Flood,,Torrential monsoonal rains
+1640,13396,Hydrological,Flood,,"Heavy rains, tropical storm Etau"
+1641,13400,Hydrological,Flood,,"Heavy rains, severe monsoon floods exacerbated by tail and of cyclone Komen"
+1642,13407,Hydrological,Flood,,Enhanced southwest monsoon by two tropical storm 'Egay' and Falcon'
+1643,13408,Hydrological,Flood,,Effects of inter-tropical convergence zone
+1644,13414,Hydrological,Flood,,Inter-tropical convergence zone
+1645,13415,Climatological,Drought,,El nino
+1646,13417,Meteorological,Storm,Huda,
+1647,13420,Meteorological,Storm,Tropical Storm Etau,
+1648,13421,Meteorological,Storm,Cyclone 'Pam',
+1649,13422,Meteorological,Storm,Hurricane Patricia,
+1650,13427,Meteorological,Storm,Cyclone Megh,
+1651,13428,Climatological,Drought,,"Late and erratic start to the rainy season, El Nino"
+1652,13429,Climatological,Drought,,Low rainfall
+1653,13430,Climatological,Drought,,Climatic conditions and refugees
+1654,13453,Hydrological,Landslide,,Seosnal monsoon
+1655,13455,Climatological,Drought,,Erratic rainfall
+1656,13457,Hydrological,Flood,,Hearvy rain
+1657,13458,Hydrological,Flood,,Tropical depression 'Rovan'
+1658,13460,Hydrological,Flood,,Severe thunderstorms
+1659,13468,Meteorological,Storm,Typhoon Noul (Dodong),
+1660,13474,Hydrological,Flood,,"Sudden rise of temperature, snow melt"
+1661,13486,Meteorological,Storm,Tropical storm 'Fundi',
+1662,13500,Hydrological,Flood,,Raini season
+1663,13526,Hydrological,Flood,,"Heavy rains, Tropical Cyclones Nathan and Pam "
+1664,13534,Hydrological,Flood,,"Heavy rains, El Nino"
+1665,13537,Climatological,Wildfire,,"extremely dry weather, high air temperatures and heavy wind"
+1666,13542,Meteorological,Storm,Tropical cylone Raquel,
+1667,13547,Meteorological,Storm,Cyclone Chapala,
+1668,13548,Hydrological,Flood,,El NIno
+1669,13549,Hydrological,Flood,,Seasonal Gu rains
+1670,13560,Meteorological,Extreme temperature ,,Polar air mass flow
+1671,13565,Hydrological,Flood,,Pre-monsoon rains
+1672,13567,Hydrological,Flood,,"Heavy rains, Cyclone Roanu"
+1673,13574,Meteorological,Storm,Hurricane Newton,
+1674,13576,Climatological,Drought,,"Lack of rains, El NIno"
+1675,13593,Hydrological,Landslide,,Thunderstorms
+1676,13595,Climatological,Wildfire,,Combination of well above normal tempertaure and lack of rainfall
+1677,13617,Climatological,Wildfire,,Combination of well above normal temperature and lack of rainfall
+1678,13627,Hydrological,Flood,,"Heavy rains, remmants of Typhoon Lionrock"
+1679,13631,Hydrological,Flood,,"Snwomelt, Ice jams and rising temperatures"
+1680,13643,Climatological,Drought,,"Slow onset of rainy season followed by severe flooding and then long dry spell, El Nino"
+1681,13651,Hydrological,Flood,,"Heavy rains, strong storm system"
+1682,13652,Hydrological,Flood,,Heavy and extented rainfall
+1683,13653,Hydrological,Flood,,Heavy rrains
+1684,13654,Hydrological,Flood,,Massive rainfalls
+1685,13663,Meteorological,Storm,Tropical cylone Lusi ,
+1686,13672,Hydrological,Landslide,,Heavy rains and small earthquake
+1687,13673,Meteorological,Storm,Hurricane Iselle,
+1688,13674,Climatological,Wildfire,,"Excessive heat, drougth and winds"
+1689,13697,Climatological,Wildfire,Valley Fire,"High temperature, Ligthning"
+1690,13701,Meteorological,Storm,Storm Octavia,
+1691,13709,Meteorological,Storm,Joaquin,
+1692,13717,Hydrological,Flood,,Pouring rainfall
+1693,13723,Hydrological,Flood,,Heav rains
+1694,13731,Hydrological,Flood,,Torrentila rains
+1695,13732,Climatological,Wildfire,,"High tempertaures, gusty winds, dry soil, vast swathes of dried vegetation and brush"
+1696,13733,Climatological,Wildfire,Butte fire,
+1697,13735,Climatological,Wildfire,,"Drought conditions, gusty winds, warm temperatures, lightening"
+1698,13739,Climatological,Drought,,"Lack of rainfall, El NIno"
+1699,13751,Meteorological,Storm,,Pacific storm systems fueled by El Nino
+1700,13752,Meteorological,Storm,,Torrential rain
+1701,13755,Climatological,Drought,,High temperature and reduced rainfall
+1702,13757,Hydrological,Flood,,Tornado
+1703,13760,Meteorological,Storm,Typhoon Megi,
+1704,13768,Hydrological,Flood,,Torrential rrains
+1705,13772,Meteorological,Storm,Hurricane 'Matthew',
+1706,13773,Meteorological,Storm,Typhoon Ferdie (Meranti),
+1707,13774,Meteorological,Storm,Tropical storm Otto,
+1708,13778,Meteorological,Storm,Storm Jonas (Snowzilla),
+1709,13780,Meteorological,Storm,Cyclone Ulla,
+1710,13787,Hydrological,Flood,,Reammnants of cyclone Fantala
+1711,13791,Climatological,Wildfire,,"Combination of heat, extented drought and gusty winds"
+1712,13792,Climatological,Wildfire,Sand Fire,Drought
+1713,13793,Climatological,Wildfire,Clayton Fire,
+1714,13796,Meteorological,Storm,Storm Mirinae,
+1715,13805,Hydrological,Landslide,,Heavy hailstorm and rains
+1716,13807,Hydrological,Flood,,Heay rains
+1717,13815,Meteorological,Storm,Typhoon Karen (Sarika),
+1718,13816,Meteorological,Storm,Typhoon Lawin (Haima),
+1719,13817,Meteorological,Storm,Tropical storm Dianmu,
+1720,13818,Meteorological,Storm,Typhoon Carina (Nida),
+1721,13832,Meteorological,Storm,Tropical depression'16/Hurricane 'Nate',
+1722,13833,Meteorological,Storm,Hurricane 'Maria',
+1723,13837,Hydrological,Flood,,Mei-Yu rain
+1724,13843,Hydrological,Landslide,,Monsoon
+1725,13844,Hydrological,Flood,,Heavy Rainfall
+1726,13849,Hydrological,Flood,,Heavy seasonal rains (Mei-yu)
+1727,13855,Meteorological,Storm,,Thunderstorm
+1728,13856,Meteorological,Storm,,Low pressure 'Kolle'
+1729,13858,Climatological,Wildfire,Sir Ivan fire,
+1730,13859,Climatological,Wildfire,"Gustafsen, Wildwood, Elephant Hill Fires",Weather
+1731,13862,Meteorological,Storm,Debbie,
+1732,13865,Meteorological,Storm,Typhoon 'Hato',
+1733,13867,Meteorological,Storm,Hurricane 'Irma',
+1734,13885,Hydrological,Flood,,Heavy Rain and storm 
+1735,13893,Meteorological,Storm,Cyclone Mora,
+1736,13902,Hydrological,Flood,,Snowmelt and Heavy Rain 
+1737,13907,Meteorological,Storm,,Mei-Yu
+1738,13916,Meteorological,Storm,Tropical Storm Talas,
+1739,13917,Meteorological,Storm,Typhoon Nesat & Haitang,
+1740,13918,Meteorological,Storm,Tropical storm 'Pakhar'/'Jolina',
+1741,13919,Climatological,Drought,,"Lack of rain, dry conditions. "
+1742,13921,Hydrological,Flood,,Severe Weather
+1743,13922,Hydrological,Flood,,Mei-Yu
+1744,13934,Hydrological,Flood,,Low pressure Alfred
+1745,13938,Meteorological,Storm,'Zeus',
+1746,13939,Climatological,Wildfire,,"Wind, drought"
+1747,13949,Hydrological,Flood,,Tropical depression 16
+1748,13950,Hydrological,Flood,,Heavy rains + Tropical Storm Selma
+1749,13953,Meteorological,Storm,Eleanor,
+1750,13954,Hydrological,Flood,,"Heavy rains, elting snow"
+1751,13956,Meteorological,Storm,Tropical storm 'Alberto',
+1752,13964,Geophysical,Volcanic activity,Volcan de Fuego,
+1753,13972,Meteorological,Storm,Typhoon 'Maria' (Gardo),
+1754,13973,Meteorological,Storm,Typhoon 'Bebinca',
+1755,13974,Meteorological,Storm,Tropical Storm Yagi,
+1756,13975,Meteorological,Storm,Tropical storm Rumbia,
+1757,13976,Meteorological,Storm,Cyclone 'Sagar',
+1758,13977,Meteorological,Storm,Cyclone 'Josie',
+1759,13982,Meteorological,Storm,'Friederike' (David),
+1760,13985,Hydrological,Flood,,Torrential Rain
+1761,13994,Climatological,Drought,,Lack of rainfall and anomalous warmth
+1762,13998,Hydrological,Flood,,Intense rain
+1763,14013,Hydrological,Flood,,Heavy Rain and Snowmelt
+1764,14019,Meteorological,Storm,Tropical storm 'Ewiniar',
+1765,14020,Meteorological,Storm,Tropical storm 'Ampil' (Inday),
+1766,14021,Meteorological,Storm,Typhoon 'Soulik',
+1767,14022,Meteorological,Storm,Typhoon Mangkut (Ompong),
+1768,14026,Hydrological,Flood,,"Typhoon Prapiroon, Typhoon Maria"
+1769,14032,Meteorological,Storm,Hurricane Michael,
+1770,14035,Meteorological,Storm,Hurricane 'Beryl',
+1771,14036,Hydrological,Flood,,Tropical Storm Beryl
+1772,14045,Meteorological,Storm,Tropical cyclone 'Keni',
+1773,14047,Meteorological,Storm,Storm 'Adrian',
+1774,14051,Hydrological,Flood,,Torrenntial rains
+1775,14053,Hydrological,Flood,,"Heavy raining, melting of snow and glacier"
+1776,14058,Hydrological,Flood,,"Heavy rain and thunderstorms, El Nino"
+1777,14067,Hydrological,Flood,,Incresaing temperatures and heavy rains
+1778,14071,Climatological,Wildfire,,Heat wave and lighthening
+1779,14072,Meteorological,Storm,Cyclone 'Kenneth',
+1780,14085,Hydrological,Flood,,Hevy rainfall
+1781,14091,Hydrological,Landslide,,Mosoon rains
+1782,14092,Meteorological,Storm,Cyclone 'Fani',
+1783,14118,Meteorological,Storm,Cyclone 'Wutip',
+1784,14124,Meteorological,Storm,Cyclone Vamco,
+1785,14125,Hydrological,Flood,,Gate of hydro-electrical dawn opened
+1786,14126,Climatological,Drought,,"El NIno, low precipitation"
+1787,14128,Meteorological,Storm,Typhoon Chaba (Chyba?),
+1788,14138,Meteorological,Storm,Tropical storm Mindulle,
+1789,14144,Meteorological,Storm,Tropical storm Marce (Tokage),
+1790,14148,Meteorological,Storm,Cyclone 'Vardah',
+1791,14150,Meteorological,Storm,Typhoon Lionrock,
+1792,14151,Meteorological,Storm,Typhoon Malakas,
+1793,14153,Meteorological,Storm,Typhoon Helen (Megi),
+1794,14154,Climatological,Drought,,Poor performance in the long-rain time period
+1795,14162,Climatological,Wildfire,,DRought and high winds
+1796,14181,Hydrological,Flood,,Continous rains
+1797,14194,Meteorological,Storm,Typhoon 'Nina' (Nock-Ten),
+1798,14195,Hydrological,Flood,,Monsooonal rains (Hagabat)
+1799,14203,Meteorological,Storm,Typhoon 'Lan'/'Paolo',
+1800,14204,Meteorological,Storm,Typhoon 'Talim',
+1801,14205,Meteorological,Storm,Cyclone 'Ockhi',
+1802,14207,Meteorological,Storm,Beatriz,
+1803,14208,Meteorological,Storm,Hurricane 'Franklin',
+1804,14211,Meteorological,Storm,Typhoon 'Damrey' / 'Ramil',Precursor of Damrey
+1805,14212,Meteorological,Storm,Storm 'Tembin' (Vinta),
+1806,14213,Meteorological,Storm,Tropical storm 'Kai-Tak' (Urduja),
+1807,14217,Climatological,Wildfire,,"Dry conditions, high temperatures (40°C), lightning"
+1808,14218,Meteorological,Storm,Cyclone 'Cempaka',
+1809,14219,Meteorological,Storm,Hurricane Katia,
+1810,14220,Meteorological,Storm,Typhoon 'Doksuri',
+1811,14234,Hydrological,Flood,,Tropical Storm Nanmadol
+1812,14244,Hydrological,Flood,,"Hevy rains, El Nino"
+1813,14254,Meteorological,Storm,Cyclone 'Enawo',
+1814,14255,Meteorological,Storm,Tropical storm 'Lidia',
+1815,14256,Meteorological,Storm,Cyclone 'Dineo',
+1816,14258,Hydrological,Landslide,,Rain
+1817,14277,Meteorological,Storm,,Monsoon
+1818,14287,Hydrological,Flood,,Long-term rainfall
+1819,14300,Hydrological,Flood,,"Snowmelt, Rain"
+1820,14303,Meteorological,Storm,Typhoon 'Noru',
+1821,14328,Hydrological,Flood,,heavy rains
+1822,14329,Hydrological,Flood,,West African Monsoon
+1823,14341,Hydrological,Flood,,Continuous rains and snowfalls
+1824,14346,Meteorological,Storm,Tropical depression 02W (Crising),
+1825,14358,Meteorological,Storm,Cyclone 'Ava',
+1826,14359,Meteorological,Storm,Tropical storm 'Basyang' (Sanba),
+1827,14360,Meteorological,Storm,Tropical depression 'Usman',
+1828,14365,Meteorological,Storm,Tropical storm 'Titli',
+1829,14377,Hydrological,Flood,,Tropical Storm Praipiroon
+1830,14383,Meteorological,Storm,Typhoon 'Yutu' (Rosita),
+1831,14389,Geophysical,Volcanic activity,Anak Krakatoa,
+1832,14390,Geophysical,Volcanic activity,Mount Etna,
+1833,14392,Hydrological,Flood,,Tropial storm Son Tinh
+1834,14396,Climatological,Wildfire,,Heat and wind
+1835,14401,Meteorological,Storm,Typhoon Jebi,
+1836,14402,Meteorological,Storm,Typhoon Trami,
+1837,14403,Meteorological,Storm,Tyhoon 'Son Tinh',
+1838,14405,Meteorological,Storm,Tropical storm 'Eliakim',
+1839,14406,Meteorological,Storm,Tropical storm 'Vicente',
+1840,14407,Meteorological,Storm,Tropical storm 'Berguitta',
+1841,14408,Meteorological,Storm,Cyclone 'Mekunu',
+1842,14409,Meteorological,Storm,Cyclone 'Luban',
+1843,14430,Meteorological,Storm,Cyclone 'Gaja',
+1844,14431,Meteorological,Storm,Tropical storm 'Phethai',
+1845,14433,Climatological,Drought,,Por rainfall
+1846,14451,Meteorological,Storm,Typhoon 'Kong-Rey',
+1847,14466,Meteorological,Storm,Hurricane Willa,
+1848,14467,Meteorological,Storm,Tropical cyclone 'Penny',
+1849,14474,Meteorological,Extreme temperature ,Dzud,
+1850,14477,Climatological,Drought,,Irregular seasonal rainfall in 2017
+1851,14499,Meteorological,Storm,Agaton (01W),
+1852,14509,Hydrological,Flood,,Storm Beryl
+1853,14511,Meteorological,Storm,Storm 'Leslie',
+1854,14526,Meteorological,Storm,Storm 'Norma',
+1855,14533,Meteorological,Storm,Cyclone 'Idai',
+1856,14543,Climatological,Drought,,Two consecutive poor rainy seasons
+1857,14544,Climatological,Drought,,El Nino and the decrease in the amount of rainfall during monsoon season
+1858,14545,Climatological,Drought,,"Prolonged dry spells, with erratic high temperatures and floods,"
+1859,14565,Hydrological,Flood,,Torrential rains; Meiyu front (Baiu font)
+1860,14571,Hydrological,Flood,,Monsoon floods
+1861,14582,Hydrological,Flood,,"Torrential rains, Tropical Storm 'Idai'"
+1862,14592,Meteorological,Storm,Tropical depression 'Amang' (01W),
+1863,14597,Geophysical,Volcanic activity,Mount Ulawun and Manam,
+1864,14656,Climatological,Wildfire,,"Drought, El Nino"
+1865,14658,Meteorological,Storm,Hurricane Hermine,
+1866,14660,Hydrological,Flood,,Excessive rains and thunderstorms
+1867,14671,Meteorological,Storm,Tropical storm Aere,
+1868,14679,Hydrological,Flood,,Residual effects of Tropial storm Dianmu
+1869,14680,Hydrological,Flood,,Mnsoonal rain
+1870,14712,Meteorological,Storm,Tropical depression 'Ex-Dineo',Torrential rains
+1871,14716,Meteorological,Storm,Hurricane Harvey,
+1872,14721,Hydrological,Flood,,Mei-Yu rain band
+1873,14725,Hydrological,Flood,,Tropical Depression 23W
+1874,14739,Meteorological,Storm,Typhoon 'Damrey' / 'Ramil',
+1875,14743,Climatological,Drought,,Lack if rainfall
+1876,14744,Climatological,Drought,,Erratic rainfall and prolonged drought conditions exacerbated by El Niño disrupted the 2015/2016
+1877,14767,Climatological,Wildfire,"Wall Fire, Alamo Fire, Whittier Fire",Weather
+1878,14768,Climatological,Wildfire,"Tubbs, Atlas, Nuns Fires",
+1879,14770,Climatological,Wildfire,'Thomas',"Droght, winds"
+1880,14776,Hydrological,Flood,,Tropical depression
+1881,14777,Geophysical,Volcanic activity,Mt Monaro,
+1882,14778,Meteorological,Storm,Tropical cyclone 'Donna',
+1883,14784,Climatological,Wildfire,Knysna fire,
+1884,14797,Hydrological,Flood,,Combination of low-pressure system and tropical depression
+1885,14802,Geophysical,Volcanic activity,Kilauea,
+1886,14803,Geophysical,Volcanic activity,Ambryn,
+1887,14804,Climatological,Wildfire,Carr and Mendocino Complex fires,
+1888,14809,Climatological,Drought,,"Lack of rain, El NIno"
+1889,14813,Meteorological,Storm,Cyclone Gita,
+1890,14817,Meteorological,Storm,Hurricane Florence,
+1891,14841,Climatological,Drought,,"Lack of rain, La Nina"
+1892,14843,Hydrological,Flood,,Tropical Storm Gordon
+1893,14846,Climatological,Wildfire,Camp Fire,
+1894,14848,Climatological,Wildfire,Woolsey Fire,
+1895,14852,Meteorological,Storm,Tropical depression 'Toraji',
+1896,14853,Geophysical,Volcanic activity,Aoba (Manaro Voui),
+1897,14859,Climatological,Wildfire,Currowan,High temperatures and dry conditions
+1898,14860,Meteorological,Storm,Tropical cyclone Lekima (Hanna),
+1899,14878,Hydrological,Flood,,Fast snowmelt
+1900,14880,Hydrological,Flood,FL-2019-000131,
+1901,14892,Meteorological,Storm,Tropical cylone 'Pabuk',
+1902,14925,Meteorological,Storm,Tropical cyclone 'Bulbul',
+1903,14927,Meteorological,Storm,Tropical cyclone 'Dorian',
+1904,14932,Hydrological,Flood,,Heavy and non-stop rains
+1905,14938,Meteorological,Storm,Tropical cyclone 'Lingling',
+1906,14939,Meteorological,Storm,Tropical cyclone 'Mitag',
+1907,14948,Meteorological,Storm,Cyclone 'Belna',
+1908,14955,Meteorological,Storm,Storm 'Alex',
+1909,14956,Meteorological,Storm,Hurricane 'Iota',
+1910,14963,Hydrological,Flood,,Seasonal rain
+1911,14968,Hydrological,Flood,FL-2020-000154,Torrential rains
+1912,14979,Climatological,Drought,,Strong dry spell 
+1913,14982,Meteorological,Storm,Tropical storm 'Nangka' (Nika),
+1914,14990,Hydrological,Flood,,Heavu rains
+1915,14992,Hydrological,Flood,,Torrential seasonal rains
+1916,14996,Meteorological,Storm,Storm 'Ciara' (Sabine),
+1917,15002,Meteorological,Storm,Cyclone 'Amphan',
+1918,15003,Meteorological,Storm,Hurricane 'Eta',
+1919,15006,Hydrological,Flood,,Rising temperatures and subsequent ice jamming
+1920,15009,Meteorological,Storm,Tropical cyclone 'Hagupit' (Dindo),
+1921,15010,Meteorological,Storm,Tropical cyclone 'Mekkhala' (Ferdie),
+1922,15021,Meteorological,Storm,Hurricane 'Isaias',
+1923,15026,Meteorological,Storm,Hurricane 'Laura',
+1924,15028,Geophysical,Volcanic activity,Sangay,
+1925,15032,Hydrological,Flood,,Torrential rainfall caused by a slow-moving area of low pressure – named “Bernd”
+1926,15034,Hydrological,Flood,,Heavy rain and river overflow
+1927,15046,Hydrological,Flood,,Heavy rains; La Nina
+1928,15047,Meteorological,Storm,Hurricane 'Elsa',
+1929,15060,Meteorological,Storm,Tropial cylone 'Niran',
+1930,15062,Climatological,Drought,,"Low rain- and snowfall, La nina"
+1931,15077,Meteorological,Storm,Tropical cyclone 'Seroja-21',
+1932,15083,Meteorological,Storm,Storm 'Aurore' (Hendrick),Strong winds
+1933,15085,Meteorological,Storm,Cyclone 'Yaas',
+1934,15111,Hydrological,Flood,,Heavy rainfall and convective storms
+1935,15112,Meteorological,Storm,Typoon 'In-Fa',
+1936,15113,Climatological,Drought,,Below-average precipitation
+1937,15115,Hydrological,Flood,,Tropical cyclone 'Cempaka'
+1938,15124,Meteorological,Storm,Tropical storm 'Ida',
+1939,15125,Meteorological,Storm,Storm 'Aurore' (Hendrick),
+1940,15128,Meteorological,Storm,Tropical cyclone 'Fred',
+1941,15136,Meteorological,Storm,Storm 'Dudley' (Ylenia),
+1942,15137,Meteorological,Storm,Storm 'Malik' (Nadia),
+1943,15141,Hydrological,Flood,,Remanant Tropical Cyclone Seth
+1944,15143,Meteorological,Storm,Storm 'Eunice' (Zeynep),
+1945,15228,Meteorological,Storm,Storm 'Amelie',
+1946,15242,Hydrological,Flood,,"Torrantial rains, TYphon 21"
+1947,15258,Meteorological,Storm,Tropical cylone 'Hagibis',
+1948,15260,Meteorological,Storm,Tropical cyclone 'Lorena',
+1949,15261,Meteorological,Storm,Tropical storm 'Fernand',
+1950,15268,Meteorological,Storm,"Elsa, Fabien",
+1951,15273,Meteorological,Storm,Tropical cyclone 'Sarai',
+1952,15298,Meteorological,Storm,Tropical storm 'Tapah',
+1953,15299,Meteorological,Storm,Typhoon 'Faxai',
+1954,15302,Hydrological,Flood,,Tropical Storm PODUL and Tropical Depression KAJIKI's
+1955,15307,Hydrological,Flood,,Tropical Storm Podul and Tropical Depression Kajiki
+1956,15314,Meteorological,Storm,Tropical storm 'Narda',
+1957,15331,Geophysical,Volcanic activity,Whakaari/White Island volcano,
+1958,15342,Meteorological,Storm,Cyclone 'Yasa',
+1959,15351,Climatological,Drought,,Insufficient rainfall 
+1960,15352,Meteorological,Storm,Tropical storm 'Amanda',
+1961,15371,Hydrological,Flood,,Heavy rains caused by tropical storm
+1962,15372,Meteorological,Storm,Tropical storm 'Cristobal',
+1963,15374,Hydrological,Flood,,Heavy rain due to the influence of Hurricane ETA
+1964,15389,Meteorological,Storm,Cyclone Nivar,
+1965,15390,Meteorological,Storm,Tropical storm Linfa,
+1966,15391,Meteorological,Storm,Typhoon 'Maisak' (Julian),
+1967,15393,Meteorological,Storm,Cyclone 'Herold',
+1968,15397,Climatological,Drought,,Prolonged dry spells and negative economic impacts of COVID-19
+1969,15406,Meteorological,Storm,'Gloria',
+1970,15411,Meteorological,Storm,Cyclone 'Tino',
+1971,15412,Meteorological,Storm,Cyclone 'Harold',
+1972,15438,Geophysical,Volcanic activity,Lewotolo Volcano,
+1973,15439,Geophysical,Volcanic activity,Mount Semeru,
+1974,15446,Hydrological,Landslide,,Heavy rains and high winds
+1975,15457,Hydrological,Landslide,,Heavy ran
+1976,15460,Meteorological,Storm,Cyclone 'Nisarga',
+1977,15478,Meteorological,Storm,Tropical cyclone 'Haishen' (Kristine),
+1978,15480,Meteorological,Storm,Tropical storm 'Noul' (Leon),
+1979,15483,Meteorological,Storm,Tropical cyclone 'Sinlaku',
+1980,15484,Climatological,Wildfire,,"Heat wave, winds"
+1981,15491,Meteorological,Storm,Tropical storm 'Gamma',
+1982,15493,Meteorological,Storm,Hurricane 'Zeta',
+1983,15516,Climatological,Wildfire,,High winds
+1984,15527,Meteorological,Storm,Tropical storm 'Enrique',
+1985,15528,Meteorological,Storm,Tropical cyclone 'Grace',
+1986,15529,Meteorological,Storm,Tropical cylone 'Nora',
+1987,15530,Meteorological,Storm,Cyclone 'Shaheen',Formed by the remnants of tropical cyclone GULAB
+1988,15531,Meteorological,Storm,Tropical storm 'Dolores',
+1989,15534,Hydrological,Landslide,,Monsoon rain
+1990,15538,Meteorological,Storm,Storm 'Filomena!,
+1991,15541,Hydrological,Flood,,Cut-off low pressure area (locally referred to as DANA)
+1992,15561,Climatological,Glacial lake outburst,,
+1993,15602,Meteorological,Storm,Tropical depression 'Omais' (Isang),
+1994,15603,Meteorological,Storm,Tropical storm 'Koguma',
+1995,15604,Meteorological,Storm,Tropical cyclone 'Rick',
+1996,15605,Meteorological,Storm,Tropical cyclone 'Eloise',
+1997,15607,Meteorological,Storm,,Tail-end of a frontal system
+1998,15611,Hydrological,Flood,,"Related to a phenomenon locally referred to as ""DANA"" or a cold drop"
+1999,15616,Geophysical,Volcanic activity,Mount Sangay,
+2000,15619,Meteorological,Storm,Tropical cyclone 'Ana',
+2001,15620,Meteorological,Storm,Storm 'Aurore' (Hendrick),"Stro,gs wnds and heav rains"
+2002,15623,Hydrological,Flood,,Heavy raiins
+2003,15633,Meteorological,Storm,Tropical cyclone 'Lionrock' (Lannie),
+2004,15634,Meteorological,Storm,Tropical cyclone 'Kompasu' (Maring),
+2005,15635,Climatological,Wildfire,,Unclear
+2006,15644,Geophysical,Volcanic activity,Mount Merapi,
+2007,15655,Hydrological,Flood,,"Heavy rains and high tides, and exacerbated by La Nina"
+2008,15659,Meteorological,Storm,Tropical cyclone 'Tauktae',
+2009,15660,Meteorological,Storm,Cyclone 'Gulab',
+2010,15661,Meteorological,Storm,Cyclone 'Shaheen',
+2011,15662,Meteorological,Storm,Tropical storm 'Jawad',
+2012,15679,Hydrological,Flood,,"""Long Rains"" season "
+2013,15692,Meteorological,Storm,,Arctic blast associated with the Polar Vortex
+2014,15700,Hydrological,Flood,,"Heavy rains, Tropical Depression TWENTYNINE"
+2015,15722,Hydrological,Flood,,Heavy rais
+2016,15724,Geophysical,Volcanic activity,Hunga-Tonga-Hunga-Ha'apai ,
+2017,15725,Hydrological,Flood,,Tropical Storm named Ana
+2018,15730,Meteorological,Storm,Tropical storm 'Cody',
+2019,15731,Meteorological,Storm,Cyclone 'Batsirai',
+2020,15732,Meteorological,Storm,Tropical storm 'Ana',
+2021,15733,Meteorological,Storm,Tropical cyclone 'Gombe',
+2022,15755,Climatological,Wildfire,,Strong winds and dry atmospheric conditions
+2023,15757,Meteorological,Storm,Tropical storm 'Dumako',
+2024,15758,Meteorological,Storm,Cyclone 'Emnati',
+2025,15831,Climatological,Drought,,"Poor rainfall, El Nino"
+2026,15835,Meteorological,Storm,Tropical cyclone 'Kalmaegi' (Ramon),
+2027,15836,Meteorological,Storm,Tropical cyclone 'Phanfone' (Ursula),
+2028,15837,Meteorological,Storm,Tropical Storm 'Pawan',Heavy rains
+2029,15838,Meteorological,Storm,Typhoon 'Matmo',
+2030,15844,Hydrological,Flood,,Tropical Cyclone Wipha
+2031,15852,Meteorological,Storm,Tropical storm ' Imelda',
+2032,15853,Meteorological,Storm,Tropical cyclone 'Nakri',
+2033,15861,Meteorological,Storm,Tropical cyclone 'Danas',
+2034,15862,Meteorological,Storm,Tropical cyclone 'Podul',
+2035,15864,Meteorological,Storm,Tropical cyclone 'Kammuri' (Tisoy),
+2036,15868,Climatological,Wildfire,,Lack of rain—compounded by strong winds and the use of slash-and-burn agricultural techniques
+2037,15899,Meteorological,Storm,Tropical cylone 'Barry',
+2038,15900,Climatological,Wildfire,Saddleridge fire & Sandalwood fire,
+2039,15901,Climatological,Wildfire,Kincade Fire,
+2040,15916,Meteorological,Storm,Typhoon 'Goni' (Rolly),
+2041,15917,Meteorological,Storm,Tyhoon 'Ulysses' (Vamco),
+2042,15925,Meteorological,Storm,Tropical cyclone 'Gati',
+2043,15934,Hydrological,Flood,,Tropical Storm HIGOS 
+2044,15935,Hydrological,Flood,,"Heavy rain, monsoon"
+2045,15941,Meteorological,Storm,Typhoon 'Molave' (Quinta),
+2046,15944,Hydrological,Flood,,Tropical Depression Rene
+2047,15954,Meteorological,Storm,Tropical depression 'Vicky' (Krovanh),
+2048,15961,Meteorological,Storm,Hurricane 'Delta',
+2049,15962,Meteorological,Storm,Hurricane 'Sally',
+2050,15966,Meteorological,Storm,Tropical storm 'Etau' (Tonyo),
+2051,15974,Geophysical,Volcanic activity,Taal volcano,
+2052,15976,Meteorological,Storm,Tropical Cyclone 'Vongfong' (Ambo),
+2053,15977,Meteorological,Storm,Tropical depression 'Ofel',
+2054,16036,Climatological,Wildfire,August Complex fire,
+2055,16038,Hydrological,Flood,,Hurricane Iota
+2056,16045,Hydrological,Flood,,"Heavy rains, cyclone Nisarga"
+2057,16060,Meteorological,Storm,Tropical storm 'Choi-Wan',
+2058,16061,Meteorological,Storm,Tropical cyclone 'Conson' (Jolina),
+2059,16065,Meteorological,Storm,Tropical depression 'Twe',
+2060,16073,Meteorological,Storm,Storm 'Claudette',
+2061,16079,Hydrological,Flood,,"Heavy rains, Tropical storm Dianmu"
+2062,16084,Hydrological,Flood,,Heavy rain and thunderstorm
+2063,16086,Hydrological,Flood,,Tropical Waves No. 38 and 39 generated heavy rains
+2064,16087,Hydrological,Flood,,"Heavy rains, tropical cyclone DIANMU"
+2065,16089,Geophysical,Volcanic activity,Mount Nyiragongo,Seismic acitivities
+2066,16090,Geophysical,Volcanic activity,Mount Nyiragongo,Seismic activities
+2067,16097,Hydrological,Flood,,Active monsoonal rainfall 
+2068,16100,Meteorological,Storm,,Polar Vortex
+2069,16103,Meteorological,Storm,Tropical storm 'Jobo',
+2070,16108,Meteorological,Storm,Tropical depression 'Henri',
+2071,16109,Meteorological,Storm,Tropical storm 'Fred',"Heavy rains, remnants of tropical storm Fred"
+2072,16111,Meteorological,Storm,Tropical storm 'Nicholas',
+2073,16116,Climatological,Drought,,"Poor precipitation, abnormally high air temperatures"
+2074,16119,Climatological,Drought,,"Covid 19 pandemic, crop pests, food insecurity, and livestock diseases"
+2075,16122,Meteorological,Storm,Tropical cyclone 'Surigae',
+2076,16128,Meteorological,Storm,Tropical storm 'Dujuan' (Auring),
+2077,16130,Meteorological,Storm,Typhoon 'Rai' (Odette),
+2078,16133,Meteorological,Storm,Storm 'Aurore' (Hendrick),Heavy rains and strong winds
+2079,16143,Geophysical,Volcanic activity,Cumbre Vieja volcano,
+2080,16171,Climatological,Wildfire,Dixie fire,"Heat, drought and winds"
+2081,16172,Climatological,Wildfire,Caldor fire,
+2082,16176,Climatological,Wildfire,Telegraph and Mescal Fires,
+2083,16177,Climatological,Wildfire,Bootleg Fire ,
+2084,16178,Climatological,Wildfire,Fawn fire,
+2085,16180,Climatological,Wildfire,Middle Fork and the Marshall wildfires,
+2086,16182,Geophysical,Volcanic activity,La Souffrière,
+2087,16189,Geophysical,Volcanic activity,Volcano 'Yasur',
+2088,16197,Meteorological,Storm,Hurricane 'Julia',
+2089,16232,Climatological,Drought,,High temperatures and lack of rainfall
+2090,16236,Meteorological,Storm,Hurricane 'Fiona',
+2091,16238,Climatological,Drought,,Ongoing drought and compounding regional and international shocks
+2092,16239,Meteorological,Storm,Tropical storm 'Chaba',
+2093,16250,Climatological,Wildfire,Adkins Ave Fire and Bertha Swamp Road Fires; Cottonwood Complex Fires,"Prolonged period of dry conditions, steady winds, and abundant fuels"
+2094,16267,Meteorological,Storm,Tropical storm 'Sitrang',
+2095,16271,Meteorological,Storm,Hurricane 'Lisa',
+2096,16278,Climatological,Wildfire,,Drought and very high temperatures 
+2097,16280,Meteorological,Storm,Storm 'Elliott',
+2098,16282,Hydrological,Flood,,Heavi rains
+2099,16283,Hydrological,Flood,,"Ice jams, rain and melting snow "
+2100,16288,Hydrological,Flood,,Tropical Depression Mulan
+2101,16298,Meteorological,Storm,Hurricane 'Ian',
+2102,16306,Climatological,Wildfire,,Long-lasting extreme heat
+2103,16308,Climatological,Drought,,La NIna
+2104,16316,Climatological,Wildfire,,High temperatures and increased wind intensity 
+2105,16336,Climatological,Wildfire,,Strong winds and high temperatures 
+2106,16358,Climatological,Drought,,Prolonged periods of dry spells 
+2107,16362,Meteorological,Storm,Tropical depression 'Aere',
+2108,16363,Meteorological,Storm,Tropical cyclone 'Agatha',
+2109,16364,Meteorological,Storm,Tropical storm 'Karl',
+2110,16365,Meteorological,Storm,Hurricane 'Roslyn',
+2111,16368,Meteorological,Storm,Tropical storm 'Megi' (Agaton),
+2112,16371,Meteorological,Storm,Tropical storm 'Sonca',
+2113,16376,Hydrological,Flood,,"Heavy rains, low-pressure system and the Intertropical Convergence Zone"
+2114,16378,Meteorological,Storm,Storm 'Nalgae' (Paeng),
+2115,16379,Meteorological,Storm,Tropical cyclone 'Nesat',
+2116,16382,Meteorological,Storm,Storm 'Elliott',Heavy snowfall and very low temperatures
+2117,16396,Meteorological,Storm,Typhoon 'Talas',
+2118,16397,Hydrological,Flood,,"Heavy rains, Tropical Depression Mulan"
+2119,16407,Hydrological,Flood,,Heavy rain combined with glacier melt 
+2120,16427,Climatological,Wildfire,McKinney & Yeti Complex fires,"Vague de chaleur, de forts vents et des orages"
+2121,16429,Meteorological,Storm,Typhoon 'Hinnamnor',
+2122,16430,Meteorological,Storm,Tropical storm 'Bonnie',
+2123,16442,Meteorological,Storm,Tropical cyclone 'Noru' (Karding),
+2124,16450,Meteorological,Storm,Cyclone 'Mandous',
+2125,16459,Meteorological,Storm,Typhoon 'Nanmadol',
+2126,16475,Meteorological,Storm,Tropical storm 'Jasmine',
+2127,16482,Hydrological,Flood,,Rainy/cyclonic season
+2128,16504,Meteorological,Storm,Tropical Cyclone 'Ma-On' (Florita),
+2129,16505,Meteorological,Storm,Tropical depression 'Maymay',
+2130,16509,Climatological,Wildfire,,Violent wind
+2131,16525,Hydrological,Flood,,Intense monsoon trough and negative Indian Ocean dipole
+2132,16527,Hydrological,Flood,,"Heavy rains, Remnants of Tropical Storm Noru"
+2133,16541,Climatological,Drought,,Lack of rainfall recorded since September 2022 
+2134,16546,Meteorological,Storm,Hurricane 'Nicole',
+2135,16547,Climatological,Wildfire,"McBride, Nogal Canyon, Hermits Peak Fires","Ongoing severe drought, strong winds and low relative humidity"
+2136,16548,Climatological,Wildfire,Calf Canyon and Hermits Peak Fires,"Hot and dry conditions, severe drought, and very high winds "
+2137,16568,Meteorological,Storm,Tropical cyclone 'Cheneso',
+2138,16569,Meteorological,Storm,Tropical cyclone 'Freddy',
+2139,16570,Meteorological,Storm,Cyclone 'Gabrielle',
+2140,16580,Hydrological,Flood,,"Heavy rains, cyclone Yaku"
+2141,16582,Hydrological,Flood,,Low-pressure area 
+2142,16614,Hydrological,Flood,,Gu rainy season
+2143,16633,Meteorological,Storm,Tropical cyclone 'Judy',
+2144,16634,Meteorological,Storm,Tropical cyclone 'Kevin',
+2145,16641,Hydrological,Flood,,Heavy rainfall and river overflow
